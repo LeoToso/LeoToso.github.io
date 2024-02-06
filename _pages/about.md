@@ -41,7 +41,9 @@ Mentoring
 
 Teaching
 ------
-1. 
+I love teaching! and over the past few years I had the pleasure of:
+
+\item 
 
 
 

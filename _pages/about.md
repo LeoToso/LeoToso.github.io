@@ -44,7 +44,7 @@ Teaching
 I love teaching! and over the past few years I had the pleasure of serving as:
 
 <ul>
-<li>S Teaching Assistant (TA) for James Anderson's Convex Optimization for Electrical Engineering course, Fall 2023. Columbia University. </li>
+<li> Teaching Assistant (TA) for James Anderson's Convex Optimization for Electrical Engineering course, Fall 2023. Columbia University. </li>
 <li> Teaching Assistant (TA) for James Anderson's Modern Control Theory course, Spring 2023. Columbia University.  </li>
 <li> Teaching Assistant (TA) for James Anderson's Convex Optimization for Electrical Engineering course, Fall 2022. Columbia University.  </li>
 <li> Teaching Assistant (TA) for Matheus Souza's Control Theory course, Spring 2022. University of Campinas.  </li>

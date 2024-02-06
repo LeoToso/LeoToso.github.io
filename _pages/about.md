@@ -43,9 +43,12 @@ Teaching
 ------
 I love teaching! and over the past few years I had the pleasure of:
 
-\item 
+<ul>
+<li>Serving as a Teaching Assistant (TA) for James Anderson's Convex Optimization for Electrical Engineering course, Fall 2022. Columbia University. </li>
+<li>Serving as a Teaching Assistant (TA) for James Anderson's Modern Control Theory course, Spring 2023. Columbia University.  </li>
+<li>Serving as a Teaching Assistant (TA) for James Anderson's Convex Optimization for Electrical Engineering course, Fall 2023. Columbia University.  </li>
 
-
+</ul>
 
 Peer Reviewer
 ------

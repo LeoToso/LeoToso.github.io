@@ -24,7 +24,7 @@ Over the past one year and a half....
 
 Papers
 ------
-1. <b>LF. Toso<b>, G. Valmorbida (2022) ["Lyapunov Function computation for Periodic Linear Hybrid Systems via Handelman, Polya and SoS approaches: A comparative study"](https://www.sciencedirect.com/science/article/pii/S2405896322011880), 18th IFAC CAO, Paris, 2022
+1. <b>LF. Toso</b>, G. Valmorbida (2022) ["Lyapunov Function computation for Periodic Linear Hybrid Systems via Handelman, Polya and SoS approaches: A comparative study"](https://www.sciencedirect.com/science/article/pii/S2405896322011880), 18th IFAC CAO, Paris, 2022
 
 
 Mentoring

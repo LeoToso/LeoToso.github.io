@@ -41,15 +41,15 @@ Mentoring
 
 Teaching
 ------
-I love teaching! and over the past few years I had the pleasure of serving as:
+I love teaching! and over the past few years I had the pleasure of serving as a TA for:
 
 <ul>
-<li> Teaching Assistant (TA) for James Anderson's Convex Optimization for Electrical Engineering course, Fall 2023. Columbia University. </li>
-<li> Teaching Assistant (TA) for James Anderson's Modern Control Theory course, Spring 2023. Columbia University.  </li>
-<li> Teaching Assistant (TA) for James Anderson's Convex Optimization for Electrical Engineering course, Fall 2022. Columbia University.  </li>
-<li> Teaching Assistant (TA) for Matheus Souza's Control Theory course, Spring 2022. University of Campinas.  </li>
-<li> Teaching Assistant (TA) for Paulo Cardieri's Electrical Circuits I course, Fall 2018. University of Campinas.  </li>
-<li> Teaching Assistant (TA) for Gabriela Planas' Calculus I course, Fall 2016. University of Campinas.  </li>
+<li> James Anderson's Convex Optimization, Fall 2023. Columbia University. </li>
+<li> James Anderson's Modern Control Theory, Spring 2023. Columbia University.  </li>
+<li> James Anderson's Convex Optimization, Fall 2022. Columbia University.  </li>
+<li> Matheus Souza's Control Theory, Spring 2022. University of Campinas.  </li>
+<li> Paulo Cardieri's Circuit Analysis, Fall 2018. University of Campinas.  </li>
+<li> Gabriela Planas' Calculus I, Fall 2016. University of Campinas.  </li>
 
 </ul>
 

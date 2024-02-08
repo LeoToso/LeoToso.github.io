@@ -20,7 +20,7 @@ I'm interested in...
 
 Collaborators
 ------
-Over the past one year and a half....
+Over the past one year, I had the pleasure of working with briliant Ph.D. students. In particular, 
 
 Papers
 ------

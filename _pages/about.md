@@ -20,7 +20,7 @@ My research interests lie in the intersection between <b>control theory</b>, <b>
 
 Collaborators
 ------
-Over the past year, I had the pleasure of collaborating with briliant Ph.D. students and Professors. In particular, <b>students:</b> [Han Wang](https://scholar.google.com/citations?user=ALzWbZQAAAAJ&hl=en) (FL and distributed control), [Thomas Zhang](https://thomaszh3.github.io/) (multi-task rep.learning), and Donglin Zhan (meta-learning LQR). <b>Professors:</b> [James Anderson](https://www.columbia.edu/~ja3451/) (Columbia University), [Nikolai Matni](https://nikolaimatni.github.io/) (UPenn), and [Aritra Mitra](https://amitra2.wordpress.ncsu.edu/)(NC State University).
+Over the past year, I had the pleasure of collaborating with briliant Ph.D. students and Professors. In particular, <b>students:</b> [Han Wang](https://scholar.google.com/citations?user=ALzWbZQAAAAJ&hl=en) (FL and distributed control), [Thomas Zhang](https://thomaszh3.github.io/) (multi-task rep.learning), and Donglin Zhan (meta-learning LQR). <b>Professors:</b> [James Anderson](https://www.columbia.edu/~ja3451/) (Columbia University), [Nikolai Matni](https://nikolaimatni.github.io/) (UPenn), and [Aritra Mitra](https://amitra2.wordpress.ncsu.edu/) (NC State University).
 
 Papers
 ------

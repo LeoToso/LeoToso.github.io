@@ -20,7 +20,7 @@ My research interests lie in the intersection between <b>control theory</b>, <b>
 
 Collaborators
 ------
-Over the past year, I had the pleasure of collaborating with briliant Ph.D. students and Professors. In particular, <b>students:</b> [Han Wang](https://scholar.google.com/citations?user=ALzWbZQAAAAJ&hl=en) (FL and distributed control), [Thomas Zhang](https://thomaszh3.github.io/) (multi-task rep.learning), and Donglin Zhan (meta-learning LQR). <b>Professors:</b> [James Anderson](https://www.columbia.edu/~ja3451/) (Columbia University), [Nikolai Matni](https://nikolaimatni.github.io/) (UPenn), and [Aritra Mitra](https://amitra2.wordpress.ncsu.edu/) (NC State University).
+Over the past year, I had the pleasure of collaborating with briliant Ph.D. students and Professors. In particular, <b>students:</b> [Han Wang](https://scholar.google.com/citations?user=ALzWbZQAAAAJ&hl=en) (FL for estimation and control), [Thomas Zhang](https://thomaszh3.github.io/) (multi-task rep. learning), and Donglin Zhan (meta-learning LQR). <b>Professors:</b> [James Anderson](https://www.columbia.edu/~ja3451/) (Columbia University), [Nikolai Matni](https://nikolaimatni.github.io/) (UPenn), and [Aritra Mitra](https://amitra2.wordpress.ncsu.edu/) (NC State University).
 
 Papers
 ------
@@ -44,14 +44,14 @@ Papers
 
 Mentoring
 ------
-Over the Summer and Fall of 2023, I had the pleasure of mentoring two amazing MS EE students at Columbia:
+Over the Summer and Fall of 2023, I had the pleasure of mentoring two outstanding MS EE students at Columbia:
 1. <b>Patrick Munar </b> on "Optimizing General Anesthesia: A Unified Model paired with Model Predictive Control and Extended Kalman Filtering" (paper in preparation)
 2. <b>Zhe Mo </b> on ["SOSPy: A Python library for solving sum-of-squares programming"](https://pypi.org/project/SOSPy/)
 
 
 Teaching
 ------
-I love teaching! and over the past few years I had the pleasure of serving as a TA for:
+I love teaching! and over the past few years I had the chance of serving as a TA for:
 
 <ul>
 <li> James Anderson's Convex Optimization, Fall 2023. Columbia University. </li>

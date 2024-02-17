@@ -45,8 +45,8 @@ Papers
 Mentoring
 ------
 Over the Summer and Fall of 2023, I had the pleasure of mentoring two outstanding MS EE students at Columbia:
-1. <b>Patrick Munar </b> on "Optimizing General Anesthesia: A Unified Model paired with Model Predictive Control and Extended Kalman Filtering" (paper in preparation)
-2. <b>Zhe Mo </b> on ["SOSPy: A Python library for solving sum-of-squares programming"](https://pypi.org/project/SOSPy/)
+1. <b>Patrick Munar </b> on "Optimizing General Anesthesia: A Unified Model paired with Model Predictive Control and Extended Kalman Filtering" (paper in preparation).
+2. <b>Zhe Mo </b> on ["SOSPy: A Python library for solving sum-of-squares programming"](https://pypi.org/project/SOSPy/).
 
 
 Teaching
@@ -65,11 +65,11 @@ I love teaching! and over the past few years I had the chance of serving as a TA
 
 Peer Reviewer
 ------
-1. IEEE Transactions on Automatic Control (TAC)
-2. IEEE Control Systems Letters (L-CSS)
-3. IEEE Transactions on Vehicular Technology (TVT)
-4. Learning for Dynamics & Control Conference (L4DC)
-5. IEEE Conference on Decision and Control (CDC)
-6. American Control Conference (ACC)
+1. IEEE Transactions on Automatic Control (TAC).
+2. IEEE Control Systems Letters (L-CSS).
+3. IEEE Transactions on Vehicular Technology (TVT).
+4. Learning for Dynamics & Control Conference (L4DC).
+5. IEEE Conference on Decision and Control (CDC).
+6. American Control Conference (ACC).
 
 

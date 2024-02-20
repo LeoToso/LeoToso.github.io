@@ -59,7 +59,7 @@ I love teaching! and over the past few years I had the chance of serving as a TA
 <li> Convex Optimization, Fall 2022. Columbia University.  </li>
 <li> Control Theory, Spring 2022. University of Campinas.  </li>
 <li> Circuit Analysis, Fall 2018. University of Campinas.  </li>
-<li> Calculus I, Fall 2016. University of Campinas.  </li>
+<li> Calculus I, Fall 2017. University of Campinas.  </li>
 
 </ul>
 

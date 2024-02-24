@@ -71,6 +71,6 @@ Peer Reviewer
 4. Learning for Dynamics & Control Conference (L4DC).
 5. IEEE Conference on Decision and Control (CDC).
 6. American Control Conference (ACC).
-7. International Federation of Automatic Control (IFAC)
+7. International Federation of Automatic Control (IFAC).
 
 

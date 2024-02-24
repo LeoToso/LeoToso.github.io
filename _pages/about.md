@@ -58,7 +58,7 @@ I love teaching! and over the past few years I had the chance of serving as a TA
 <li> Modern Control Theory, Spring 2023. Columbia University.  </li>
 <li> Convex Optimization, Fall 2022. Columbia University.  </li>
 <li> Control Theory, Spring 2022. University of Campinas.  </li>
-<li> Circuit Analysis, Fall 2018. University of Campinas.  </li>
+<li> Circuit Analysis I, Fall 2018. University of Campinas.  </li>
 <li> Calculus I, Fall 2017. University of Campinas.  </li>
 
 </ul>

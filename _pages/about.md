@@ -27,7 +27,7 @@ Papers
 
 [8] <b>LF. Toso</b>, D. Zhang, J. Anderson, H. Wang, ["Meta-Learning Linear Quadratic Regulators: A Policy Gradient MAML Approach for the Model-free LQR"](https://arxiv.org/abs/2401.14534). Under review 2024. 
 
-[7] TTCK. Zhang <b>LF. Toso</b>, J. Anderson, N. Matni, ["Sample-Efficient Linear Representation Learning from Non-IID Non-Isotropic Data"](https://openreview.net/forum?id=Tr3fZocrI6). To appear at ICLR 2024 <b>(spotlight)</b>. 
+[7] TTCK. Zhang, <b>LF. Toso</b>, J. Anderson, N. Matni, ["Sample-Efficient Linear Representation Learning from Non-IID Non-Isotropic Data"](https://openreview.net/forum?id=Tr3fZocrI6). To appear at ICLR 2024 <b>(spotlight - top 5%)</b>. 
 
 [6] <b>LF. Toso</b>, H. Wang, J. Anderson, ["Oracle Complexity Reduction for Model-free LQR: A Stochastic Variance-Reduced Policy Gradient Approach"](https://arxiv.org/abs/2309.10679). To appear at ACC 2024. 
 

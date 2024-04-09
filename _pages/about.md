@@ -20,7 +20,7 @@ My research interests lie in the intersection between <b>control theory</b>, <b>
 
 Collaborators
 ------
-Over the past year, I had the pleasure of collaborating with brilliant Ph.D. students and Professors. In particular, <b>students:</b> [Han Wang](https://scholar.google.com/citations?user=ALzWbZQAAAAJ&hl=en) (FL for estimation and control), [Thomas Zhang](https://thomaszh3.github.io/) (multi-task rep. learning), and [Donglin Zhan](https://scholar.google.com/citations?hl=en&user=SkUje2YAAAAJ&view_op=list_works&sortby=pubdate) (meta-learning LQR). <b>Professors:</b> [James Anderson](https://www.columbia.edu/~ja3451/) (Columbia University), [Nikolai Matni](https://nikolaimatni.github.io/) (UPenn), and [Aritra Mitra](https://amitra2.wordpress.ncsu.edu/) (NC State University).
+Over the past year, I had the pleasure of collaborating with brilliant Ph.D. students and Professors. In particular, <b>students:</b> [Han Wang](https://scholar.google.com/citations?user=ALzWbZQAAAAJ&hl=en) (FL for estimation and control), [Thomas Zhang](https://thomaszh3.github.io/) (multi-task rep. learning), [Bruce D. Lee](https://brucedlee.github.io/) (adaptive control) and [Donglin Zhan](https://scholar.google.com/citations?hl=en&user=SkUje2YAAAAJ&view_op=list_works&sortby=pubdate) (meta-learning LQR). <b>Professors:</b> [James Anderson](https://www.columbia.edu/~ja3451/) (Columbia University), [Nikolai Matni](https://nikolaimatni.github.io/) (UPenn), and [Aritra Mitra](https://amitra2.wordpress.ncsu.edu/) (NC State University).
 
 Papers
 ------

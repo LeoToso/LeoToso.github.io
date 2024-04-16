@@ -26,7 +26,7 @@ Papers
 ------
 
 
-[9] <b>LF. Toso*</b>, H. Wang*, J. Anderson, ["Asynchronous Heterogeneous Linear Quadratic Regulator Design"](https://arxiv.org/abs/2404.09061). Under review, 2024. 
+[9] <b> LF. Toso* </b>, H. Wang*, J. Anderson, ["Asynchronous Heterogeneous Linear Quadratic Regulator Design"](https://arxiv.org/abs/2404.09061). Under review, 2024. 
 
 [8] <b>LF. Toso</b>, D. Zhang, J. Anderson, H. Wang, ["Meta-Learning Linear Quadratic Regulators: A Policy Gradient MAML Approach for the Model-free LQR"](https://arxiv.org/abs/2401.14534). To appear at L4DC, 2024 <b>(oral - top 7.5%)</b>. 
 

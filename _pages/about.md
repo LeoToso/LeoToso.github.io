@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Leo, a Presidential fellow and second-year Ph.D. student in the Department of Electrical Engineering at Columbia University, where I am advised by [James Anderson](https://www.columbia.edu/~ja3451/). Before joining Columbia, I was an undergrad research assistant in the Department of Engineering Science at the University of Oxford, under the supervision of [Stephen Duncan](https://scholar.google.com/citations?user=l99dKkMAAAAJ&hl=en) and [Ross Drummond](https://scholar.google.com/citations?user=7eI7h3UAAAAJ&hl=en). I was awarded my M.S. in Control, Signal, and Image Processing from the University of Paris-Saclay and the M.Eng. in Control Engineering from CentraleSupélec in 2022, where I worked with [Giorgio Valmorbida](https://scholar.google.com/citations?user=FgtzOj0AAAAJ&hl=en). In addition, I received my B.Eng. in Electrical Engineering from the University of Campinas (Unicamp) in 2022, working with [Matheus Souza](https://scholar.google.com/citations?user=DeQYj8QAAAAJ&hl=en). You can find out more about my research and professional expirience in my [CV](https://drive.google.com/file/d/1KMEcRGXyzPxKzNBeniAHbScL-8E_HuDe/view?usp=sharing). 
+Hello! I'm Leo, a presidential fellow and second-year Ph.D. student in the Department of Electrical Engineering at Columbia University, where I am advised by [James Anderson](https://www.columbia.edu/~ja3451/). Before joining Columbia, I was an undergrad research assistant in the Department of Engineering Science at the University of Oxford, working with [Stephen Duncan](https://scholar.google.com/citations?user=l99dKkMAAAAJ&hl=en) and [Ross Drummond](https://scholar.google.com/citations?user=7eI7h3UAAAAJ&hl=en). I was awarded my M.S. in Control, Signal, and Image Processing from the University of Paris-Saclay and the M.Eng. in Control Engineering from CentraleSupélec in 2022, where I worked with [Giorgio Valmorbida](https://scholar.google.com/citations?user=FgtzOj0AAAAJ&hl=en). In addition, I received my B.Eng. in Electrical Engineering from the University of Campinas (Unicamp) in 2022, working with [Matheus Souza](https://scholar.google.com/citations?user=DeQYj8QAAAAJ&hl=en). You can find out more about my research and professional expirience in my [CV](https://drive.google.com/file/d/1KMEcRGXyzPxKzNBeniAHbScL-8E_HuDe/view?usp=sharing). 
 
 
 
@@ -20,7 +20,11 @@ My research interests lie in the intersection between <b>control theory</b>, <b>
 
 Collaborators
 ------
-Over the past year, I had the pleasure of collaborating with brilliant Ph.D. students and Professors. In particular, <b>students:</b> [Han Wang](https://scholar.google.com/citations?user=ALzWbZQAAAAJ&hl=en) (FL for estimation and control), [Thomas Zhang](https://thomaszh3.github.io/) (multi-task rep. learning), [Bruce D. Lee](https://brucedlee.github.io/) (adaptive control) and [Donglin Zhan](https://scholar.google.com/citations?hl=en&user=SkUje2YAAAAJ&view_op=list_works&sortby=pubdate) (meta-learning LQR). <b>Professors:</b> [James Anderson](https://www.columbia.edu/~ja3451/) (Columbia University), [Nikolai Matni](https://nikolaimatni.github.io/) (UPenn), and [Aritra Mitra](https://amitra2.wordpress.ncsu.edu/) (NC State University).
+Over the past year, I had the pleasure of collaborating with brilliant people:
+
+<b>Students:</b> [Han Wang](https://scholar.google.com/citations?user=ALzWbZQAAAAJ&hl=en) (FL for estimation and control), [Thomas Zhang](https://thomaszh3.github.io/) (multi-task rep. learning), [Bruce D. Lee](https://brucedlee.github.io/) (adaptive control) and [Donglin Zhan](https://scholar.google.com/citations?hl=en&user=SkUje2YAAAAJ&view_op=list_works&sortby=pubdate) (meta-learning LQR). 
+
+<b>Professors:</b> [James Anderson](https://www.columbia.edu/~ja3451/) (Columbia University), [Nikolai Matni](https://nikolaimatni.github.io/) (UPenn), and [Aritra Mitra](https://amitra2.wordpress.ncsu.edu/) (NC State University).
 
 Papers
 ------
@@ -56,15 +60,15 @@ Over the Summer and Fall of 2023, I had the pleasure of mentoring two outstandin
 
 Teaching
 ------
-I love teaching! and over the past few years I had the chance of serving as a head TA for:
+I love teaching! Over the past few years I had the chance of serving as a head TA for:
 
 <ul>
-<li>  Convex Optimization, Fall 2023. Columbia University. </li>
-<li> Modern Control Theory, Spring 2023. Columbia University.  </li>
-<li> Convex Optimization, Fall 2022. Columbia University.  </li>
-<li> Control Theory, Spring 2022. University of Campinas.  </li>
-<li> Circuit Analysis I, Fall 2018. University of Campinas.  </li>
-<li> Calculus I, Fall 2017. University of Campinas.  </li>
+<li>  Convex Optimization, Fall 2023, Columbia University. </li>
+<li> Modern Control Theory, Spring 2023, Columbia University.  </li>
+<li> Convex Optimization, Fall 2022, Columbia University.  </li>
+<li> Control Theory, Spring 2022, University of Campinas.  </li>
+<li> Circuit Analysis I, Fall 2018, University of Campinas.  </li>
+<li> Calculus I, Fall 2017, University of Campinas.  </li>
 
 </ul>
 

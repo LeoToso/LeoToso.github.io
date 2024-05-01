@@ -22,24 +22,10 @@ Collaborators
 ------
 Over the past year, I had the pleasure of collaborating with brilliant people:
 
-<b>Students:</b> 
-
-<ul>
-<li>  [Han Wang](https://scholar.google.com/citations?user=ALzWbZQAAAAJ&hl=en) (FL for estimation and control). </li>
-<li>  [Thomas Zhang](https://thomaszh3.github.io/) (multi-task rep. learning).  </li>
-<li>  [Bruce D. Lee](https://brucedlee.github.io/) (adaptive control).  </li>
-<li>  [Donglin Zhan](https://scholar.google.com/citations?hl=en&user=SkUje2YAAAAJ&view_op=list_works&sortby=pubdate) (meta-learning LQR). </li>
-</ul>
+<b>Students:</b> [Han Wang](https://scholar.google.com/citations?user=ALzWbZQAAAAJ&hl=en) (FL for estimation and control), [Thomas Zhang](https://thomaszh3.github.io/) (multi-task rep. learning), [Bruce D. Lee](https://brucedlee.github.io/) (adaptive control), [Donglin Zhan](https://scholar.google.com/citations?hl=en&user=SkUje2YAAAAJ&view_op=list_works&sortby=pubdate) (meta-learning LQR). 
 
 
-
-<b>Professors:</b> 
-
-<ul>
-<li>  [James Anderson](https://www.columbia.edu/~ja3451/) (Columbia University). </li>
-<li>  [Nikolai Matni](https://nikolaimatni.github.io/) (UPenn).  </li>
-<li>  [Aritra Mitra](https://amitra2.wordpress.ncsu.edu/) (NC State University).  </li>
-</ul>
+<b>Professors:</b> [James Anderson](https://www.columbia.edu/~ja3451/) (Columbia University), [Nikolai Matni](https://nikolaimatni.github.io/) (UPenn), [Aritra Mitra](https://amitra2.wordpress.ncsu.edu/) (NC State University).
 
 
 Papers

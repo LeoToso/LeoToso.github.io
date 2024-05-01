@@ -15,16 +15,32 @@ Hello! I'm Leo, a presidential fellow and second-year Ph.D. student in the Depar
 Research Interests
 ------
 
-My research interests lie in the intersection between <b>control theory</b>, <b>machine learning</b>, and <b>optimization</b>.
+My research interests lie in the intersection between <b>control theory</b>, <b>machine learning</b>, and <b>optimization</b>. 
 
 
 Collaborators
 ------
 Over the past year, I had the pleasure of collaborating with brilliant people:
 
-<b>Students:</b> [Han Wang](https://scholar.google.com/citations?user=ALzWbZQAAAAJ&hl=en) (FL for estimation and control), [Thomas Zhang](https://thomaszh3.github.io/) (multi-task rep. learning), [Bruce D. Lee](https://brucedlee.github.io/) (adaptive control) and [Donglin Zhan](https://scholar.google.com/citations?hl=en&user=SkUje2YAAAAJ&view_op=list_works&sortby=pubdate) (meta-learning LQR). 
+<b>Students:</b> 
 
-<b>Professors:</b> [James Anderson](https://www.columbia.edu/~ja3451/) (Columbia University), [Nikolai Matni](https://nikolaimatni.github.io/) (UPenn), and [Aritra Mitra](https://amitra2.wordpress.ncsu.edu/) (NC State University).
+<ul>
+<li>  [Han Wang](https://scholar.google.com/citations?user=ALzWbZQAAAAJ&hl=en) (FL for estimation and control). </li>
+<li>  [Thomas Zhang](https://thomaszh3.github.io/) (multi-task rep. learning).  </li>
+<li>  [Bruce D. Lee](https://brucedlee.github.io/) (adaptive control).  </li>
+<li>  [Donglin Zhan](https://scholar.google.com/citations?hl=en&user=SkUje2YAAAAJ&view_op=list_works&sortby=pubdate) (meta-learning LQR). </li>
+</ul>
+
+
+
+<b>Professors:</b> 
+
+<ul>
+<li>  [James Anderson](https://www.columbia.edu/~ja3451/) (Columbia University). </li>
+<li>  [Nikolai Matni](https://nikolaimatni.github.io/) (UPenn).  </li>
+<li>  [Aritra Mitra](https://amitra2.wordpress.ncsu.edu/) (NC State University).  </li>
+</ul>
+
 
 Papers
 ------
@@ -32,11 +48,11 @@ Papers
 
 [9] <b> LF. Toso* </b>, H. Wang*, J. Anderson, ["Asynchronous Heterogeneous Linear Quadratic Regulator Design"](https://arxiv.org/abs/2404.09061). Under review, 2024. 
 
-[8] <b>LF. Toso</b>, D. Zhang, J. Anderson, H. Wang, ["Meta-Learning Linear Quadratic Regulators: A Policy Gradient MAML Approach for the Model-free LQR"](https://arxiv.org/abs/2401.14534). To appear at L4DC, 2024 <b>(oral - top 7.5%)</b>. 
+[8] <b>LF. Toso</b>, D. Zhang, J. Anderson, H. Wang, ["Meta-Learning Linear Quadratic Regulators: A Policy Gradient MAML Approach for the Model-free LQR"](https://arxiv.org/abs/2401.14534). L4DC, 2024 <b>(oral - top 7.5%)</b>. 
 
-[7] TTCK. Zhang, <b>LF. Toso</b>, J. Anderson, N. Matni, ["Sample-Efficient Linear Representation Learning from Non-IID Non-Isotropic Data"](https://openreview.net/forum?id=Tr3fZocrI6). To appear at ICLR, 2024 <b>(spotlight - top 5%)</b>. 
+[7] TTCK. Zhang, <b>LF. Toso</b>, J. Anderson, N. Matni, ["Sample-Efficient Linear Representation Learning from Non-IID Non-Isotropic Data"](https://openreview.net/forum?id=Tr3fZocrI6). ICLR, 2024 <b>(spotlight - top 5%)</b>. 
 
-[6] <b>LF. Toso</b>, H. Wang, J. Anderson, ["Oracle Complexity Reduction for Model-free LQR: A Stochastic Variance-Reduced Policy Gradient Approach"](https://arxiv.org/abs/2309.10679). To appear at ACC, 2024. 
+[6] <b>LF. Toso</b>, H. Wang, J. Anderson, ["Oracle Complexity Reduction for Model-free LQR: A Stochastic Variance-Reduced Policy Gradient Approach"](https://arxiv.org/abs/2309.10679). ACC, 2024. 
 
 [5] H. Wang, <b>LF. Toso</b>, A. Mitra, J. Anderson, ["Model-free Learning with Heterogeneous Dynamical Systems: A Federated LQR Approach"](https://arxiv.org/abs/2308.11743). Under review, 2023.
 

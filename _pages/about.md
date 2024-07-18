@@ -31,7 +31,7 @@ Over the past year, I had the pleasure of collaborating with brilliant people:
 Papers
 ------
 
-[10] Bruce D. Lee*,<b> LF. Toso* </b>, T. Zhang*, J. Anderson, N. Matni, ["Regret Analysis of Multi-task Representation Learning for
+[10] Bruce D. Lee^*,<b> LF. Toso* </b>, T. Zhang^*, J. Anderson, N. Matni, ["Regret Analysis of Multi-task Representation Learning for
 Linear-Quadratic Adaptive Control"](https://arxiv.org/pdf/2407.05781). Under review, 2024. 
 
 [9] <b> LF. Toso* </b>, H. Wang*, J. Anderson, ["Asynchronous Heterogeneous Linear Quadratic Regulator Design"](https://arxiv.org/abs/2404.09061). Under review, 2024. 

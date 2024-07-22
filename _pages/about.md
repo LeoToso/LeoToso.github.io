@@ -57,10 +57,9 @@ Papers
 Talks
 ------
 
-<ul>
-<li>  L4DC, 2024, Oxford, UK. "Meta-Learning Linear Quadratic Regulators: A Policy Gradient MAML Approach for Model-free LQR". [Slides](https://drive.google.com/file/d/1rTwlscxC0k6W9D66szeOeRPGZAz82o8U/view?usp=share_link) </li>
-<li> ACC, 2024, Toronto, Canada. "Oracle Complexity Reduction for Model-free LQR: A Stochastic Variance-Reduced Policy Gradient Approach". [Slides](https://drive.google.com/file/d/1Zjq_FQUcZF56CQwwYLmxBAdUmRFKSm2X/view?usp=share_link)  </li>
+[1] ACC, 2024, Toronto, Canada. "Oracle Complexity Reduction for Model-free LQR: A Stochastic Variance-Reduced Policy Gradient Approach". [Slides](https://drive.google.com/file/d/1Zjq_FQUcZF56CQwwYLmxBAdUmRFKSm2X/view?usp=share_link) 
 
+[2] L4DC, 2024, Oxford, UK. "Meta-Learning Linear Quadratic Regulators: A Policy Gradient MAML Approach for Model-free LQR". [Slides](https://drive.google.com/file/d/1rTwlscxC0k6W9D66szeOeRPGZAz82o8U/view?usp=share_link) 
 
 Mentoring
 ------

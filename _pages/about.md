@@ -31,8 +31,7 @@ Over the past year, I had the pleasure of collaborating with brilliant people:
 Papers
 ------
 
-[10] Bruce D. Lee*, <b> LF. Toso* </b>, T. Zhang*, J. Anderson, N. Matni, ["Regret Analysis of Multi-task Representation Learning for
-Linear-Quadratic Adaptive Control"](https://arxiv.org/pdf/2407.05781). Under review, 2024. 
+[10] Bruce D. Lee*, <b> LF. Toso* </b>, T. Zhang*, J. Anderson, N. Matni, ["Regret Analysis of Multi-task Representation Learning for Linear-Quadratic Adaptive Control"](https://arxiv.org/pdf/2407.05781). Under review, 2024. 
 
 [9] <b> LF. Toso* </b>, H. Wang*, J. Anderson, ["Asynchronous Heterogeneous Linear Quadratic Regulator Design"](https://arxiv.org/abs/2404.09061). Under review, 2024. 
 
@@ -53,6 +52,14 @@ Linear-Quadratic Adaptive Control"](https://arxiv.org/pdf/2407.05781). Under rev
 [1] <b>LF. Toso</b>, G. Valmorbida, ["Lyapunov Function computation for Periodic Linear Hybrid Systems via Handelman, Polya and SoS approaches: A comparative study"](https://www.sciencedirect.com/science/article/pii/S2405896322011880). IFAC CAO, 2022.
 
 ^* denotes equal contribution.
+
+
+Talks
+------
+
+<ul>
+<li>  L4DC, 2024, Oxford, UK. "Meta-Learning Linear Quadratic Regulators: A Policy Gradient MAML Approach for Model-free LQR". [Slides](https://drive.google.com/file/d/1rTwlscxC0k6W9D66szeOeRPGZAz82o8U/view?usp=share_link) </li>
+<li> ACC, 2024, Toronto, Canada. "Oracle Complexity Reduction for Model-free LQR: A Stochastic Variance-Reduced Policy Gradient Approach". [Slides](https://drive.google.com/file/d/1Zjq_FQUcZF56CQwwYLmxBAdUmRFKSm2X/view?usp=share_link)  </li>
 
 
 Mentoring

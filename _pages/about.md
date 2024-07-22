@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+
 Hello! I'm Leo, a presidential fellow and second-year Ph.D. student in the Department of Electrical Engineering at Columbia University, where I am advised by [James Anderson](https://www.columbia.edu/~ja3451/). Before joining Columbia, I was an undergrad research assistant in the Department of Engineering Science at the University of Oxford, working with [Stephen Duncan](https://scholar.google.com/citations?user=l99dKkMAAAAJ&hl=en) and [Ross Drummond](https://scholar.google.com/citations?user=7eI7h3UAAAAJ&hl=en). I was awarded my M.S. in Control, Signal, and Image Processing from the University of Paris-Saclay and the M.Eng. in Control Engineering from CentraleSupélec in 2022, where I worked with [Giorgio Valmorbida](https://scholar.google.com/citations?user=FgtzOj0AAAAJ&hl=en). In addition, I received my B.Eng. in Electrical Engineering from the University of Campinas (Unicamp) in 2022, working with [Matheus Souza](https://scholar.google.com/citations?user=DeQYj8QAAAAJ&hl=en). You can find out more about my research and professional expirience in my [CV](https://drive.google.com/file/d/1KMEcRGXyzPxKzNBeniAHbScL-8E_HuDe/view?usp=sharing). 
 
 
@@ -57,9 +58,9 @@ Papers
 Talks
 ------
 
-[1] ACC, 2024, Toronto, Canada. "Oracle Complexity Reduction for Model-free LQR: A Stochastic Variance-Reduced Policy Gradient Approach". [Slides.](https://drive.google.com/file/d/1Zjq_FQUcZF56CQwwYLmxBAdUmRFKSm2X/view?usp=share_link) 
+1. ACC, 2024, Toronto, Canada. "Oracle Complexity Reduction for Model-free LQR: A Stochastic Variance-Reduced Policy Gradient Approach". [Slides.](https://drive.google.com/file/d/1Zjq_FQUcZF56CQwwYLmxBAdUmRFKSm2X/view?usp=share_link) 
 
-[2] L4DC, 2024, Oxford, UK. "Meta-Learning Linear Quadratic Regulators: A Policy Gradient MAML Approach for Model-free LQR". [Slides.](https://drive.google.com/file/d/1rTwlscxC0k6W9D66szeOeRPGZAz82o8U/view?usp=share_link)
+2. L4DC, 2024, Oxford, UK. "Meta-Learning Linear Quadratic Regulators: A Policy Gradient MAML Approach for Model-free LQR". [Slides.](https://drive.google.com/file/d/1rTwlscxC0k6W9D66szeOeRPGZAz82o8U/view?usp=share_link)
 
 Mentoring
 ------

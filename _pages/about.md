@@ -34,7 +34,7 @@ Papers
 
 
 
-[10] <b> LF. Toso* </b>, H. Wang*, J. Anderson, ["Asynchronous Heterogeneous Linear Quadratic Regulator Design"](https://arxiv.org/abs/2404.09061). Under review, 2024. 
+[10] <b> LF. Toso* </b>, H. Wang*, J. Anderson, ["Asynchronous Heterogeneous Linear Quadratic Regulator Design"](https://arxiv.org/abs/2404.09061). To appear at CDC, 2024. 
 
 [9] Bruce Lee*, <b> LF. Toso* </b>, T. Zhang*, J. Anderson, N. Matni, ["Regret Analysis of Multi-task Representation Learning for Linear-Quadratic Adaptive Control"](https://arxiv.org/pdf/2407.05781). Under review, 2024. 
 

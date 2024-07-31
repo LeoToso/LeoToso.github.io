@@ -16,7 +16,7 @@ Hello! I'm Leo, a presidential fellow and second-year Ph.D. student in the Depar
 Research Interests
 ------
 
-My research interests lie in the intersection between <b>control theory</b>, <b>machine learning</b>, and <b>optimization</b>. 
+My research interests lie at the intersection of <b>control theory</b>, <b>machine learning</b>, and <b>optimization</b>. 
 
 
 Collaborators

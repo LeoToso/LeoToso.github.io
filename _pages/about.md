@@ -90,7 +90,7 @@ Service
 ------
 
 <ul>
-<li> NextCom Lidership: CDC 2025 Ambassador. </li>
+<li> NextCom Leadership: CDC 2025 Ambassador. </li>
 <li> Peer reviewer: ICLR, TAC, L-CSS, TVT, L4DC, CDC, ACC, IFAC, CONES, Automatica, Transactions on Information Theory. </li>
 </ul>
 

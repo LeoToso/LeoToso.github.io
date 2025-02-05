@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I'm a Presidential and CAIRFI (Center for AI and Responsible Financial Innovation) fellow and a third-year Ph.D. student in the Department of Electrical Engineering at Columbia University advised by Prof. [James Anderson](https://www.columbia.edu/~ja3451/). Before joining Columbia, I was an undergraduate research assistant in the Department of Engineering Science at the University of Oxford. I was awarded my M.S. in Control, Signal, and Image Processing from the University of Paris-Saclay and the M.Eng. in Electrical Engineering from CentraleSupélec both in 2022. In addition, I received my B.Eng. in Electrical Engineering from the University of Campinas (Unicamp) also in 2022.
+I'm a Presidential and CAIRFI (Center for AI and Responsible Financial Innovation) fellow and a third-year Ph.D. student in the Department of Electrical Engineering at Columbia University advised by Prof. [James Anderson](https://www.columbia.edu/~ja3451/). Before joining Columbia, I was an research assistant in the Department of Engineering Science at the University of Oxford. I was awarded the M.S. in Control, Signal, and Image Processing from the University of Paris-Saclay and the M.Eng. in Electrical Engineering from CentraleSupélec both in 2022. In addition, I received my B.Eng. in Electrical Engineering from the University of Campinas (Unicamp) also in 2022.
 
 
 Research Interests
@@ -20,7 +20,7 @@ My research interests lie at the intersection of <b>control theory</b>, <b>machi
 
 Collaborators
 ------
-Over the past year, I had the pleasure of collaborating with brilliant people:
+Over the past few years, I had the pleasure of collaborating with brilliant people:
 
 <b>Students:</b> [Han Wang](https://scholar.google.com/citations?user=ALzWbZQAAAAJ&hl=en) (FL for estimation and control), [Thomas Zhang](https://thomaszh3.github.io/) (multi-task rep. learning), [Bruce D. Lee](https://brucedlee.github.io/) (adaptive control), [Donglin Zhan](https://scholar.google.com/citations?hl=en&user=SkUje2YAAAAJ&view_op=list_works&sortby=pubdate) (meta-learning LQR). 
 
@@ -31,10 +31,11 @@ Over the past year, I had the pleasure of collaborating with brilliant people:
 Papers
 ------
 
+[11] Donglin Zhan, <b> LF. Toso </b>, J. Anderson ["Coreset-Based Task Selection for Sample-Efficient Meta-Reinforcement Learning"](https://arxiv.org/pdf/2502.02332). Under review, 2025. 
 
-[10] <b> LF. Toso* </b>, H. Wang*, J. Anderson, ["Asynchronous Heterogeneous Linear Quadratic Regulator Design"](https://arxiv.org/abs/2404.09061). To appear at CDC, 2024. 
+[10] Bruce Lee*, <b> LF. Toso* </b>, T. Zhang*, J. Anderson, N. Matni, ["Regret Analysis of Multi-task Representation Learning for Linear-Quadratic Adaptive Control"](https://arxiv.org/pdf/2407.05781). To appear at AAAI, 2025. 
 
-[9] Bruce Lee*, <b> LF. Toso* </b>, T. Zhang*, J. Anderson, N. Matni, ["Regret Analysis of Multi-task Representation Learning for Linear-Quadratic Adaptive Control"](https://arxiv.org/pdf/2407.05781). To appear at AAAI, 2025. 
+[9] <b> LF. Toso* </b>, H. Wang*, J. Anderson, ["Asynchronous Heterogeneous Linear Quadratic Regulator Design"](https://arxiv.org/abs/2404.09061). CDC, 2024. 
 
 [8] [**Best Paper Award**](https://l4dc.web.ox.ac.uk/best-paper-awards) - <b>LF. Toso</b>, D. Zhang, J. Anderson, H. Wang, ["Meta-Learning Linear Quadratic Regulators: A Policy Gradient MAML Approach for Model-free LQR"](https://arxiv.org/abs/2401.14534). L4DC, 2024 <b>(oral - top 7.5%)</b>.
 
@@ -62,6 +63,8 @@ Talks
 
 2. L4DC, 2024, Oxford, UK. "Meta-Learning Linear Quadratic Regulators: A Policy Gradient MAML Approach for Model-free LQR". [Slides.](https://drive.google.com/file/d/1rTwlscxC0k6W9D66szeOeRPGZAz82o8U/view?usp=share_link)
 
+3. CDC 2024, Milan, Italy. "Asynchronous Heterogeneous Linear Quadratic Regulator Design". [Slides.](https://drive.google.com/file/d/1fv-Ly3dD3d7Pzf_PmmyG0b_xMQw7UOqn/view?usp=sharing) 
+
 Mentoring
 ------
 Over the Summer and Fall of 2023, I had the pleasure of mentoring two outstanding M.S. EE students at Columbia:
@@ -71,26 +74,22 @@ Over the Summer and Fall of 2023, I had the pleasure of mentoring two outstandin
 
 Teaching
 ------
-I love teaching! Over the past few years I had the chance of serving as a head TA for:
+I love teaching! Over the past few years I served as a head TA for:
 
 <ul>
-<li>  Convex Optimization, Fall 2023, Columbia University. </li>
+<li>  Convex Optimization, Fall 2022 and 2023, Columbia University. </li>
 <li> Modern Control Theory, Spring 2023, Columbia University.  </li>
-<li> Convex Optimization, Fall 2022, Columbia University.  </li>
 <li> Control Theory, Spring 2022, University of Campinas.  </li>
 <li> Circuit Analysis I, Fall 2018, University of Campinas.  </li>
 <li> Calculus I, Fall 2017, University of Campinas.  </li>
 
 </ul>
 
-Peer Reviewer
+
+Service
 ------
-1. IEEE Transactions on Automatic Control (TAC).
-2. IEEE Control Systems Letters (L-CSS).
-3. IEEE Transactions on Vehicular Technology (TVT).
-4. Learning for Dynamics & Control Conference (L4DC).
-5. IEEE Conference on Decision and Control (CDC).
-6. American Control Conference (ACC).
-7. International Federation of Automatic Control (IFAC).
+
+Peer reviewer: ICLR, TAC, L-CSS, TVT, L4DC, CDC, ACC, IFAC, CONES, Automatica, Transactions on Information Theory. 
+NextCom: CDC Ambassador. 
 
 

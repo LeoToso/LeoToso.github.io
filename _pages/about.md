@@ -31,7 +31,7 @@ Over the past few years, I had the pleasure of collaborating with brilliant peop
 Papers
 ------
 
-[11] D. Zhan, <b> LF. Toso </b>, J. Anderson ["Coreset-Based Task Selection for Sample-Efficient Meta-Reinforcement Learning"](https://arxiv.org/pdf/2502.02332). Under review, 2025. 
+[11] D. Zhan, <b> LF. Toso </b>, J. Anderson, ["Coreset-Based Task Selection for Sample-Efficient Meta-Reinforcement Learning"](https://arxiv.org/pdf/2502.02332). Under review, 2025. 
 
 [10] B. Lee*, <b> LF. Toso* </b>, T. Zhang*, J. Anderson, N. Matni, ["Regret Analysis of Multi-task Representation Learning for Linear-Quadratic Adaptive Control"](https://arxiv.org/pdf/2407.05781). To appear at AAAI, 2025. 
 
@@ -90,7 +90,7 @@ Service
 ------
 
 <ul>
-<li> NextCom Leadership: CDC 2025 Ambassador. </li>
+<li> NextCom leadership: CDC 2025 Ambassador. </li>
 <li> Peer reviewer: ICLR, TAC, L-CSS, TVT, L4DC, CDC, ACC, IFAC, CONES, Automatica, Transactions on Information Theory. </li>
 </ul>
 

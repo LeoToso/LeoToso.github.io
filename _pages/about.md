@@ -89,7 +89,9 @@ I love teaching! Over the past few years I served as a head TA for:
 Service
 ------
 
-Peer reviewer: ICLR, TAC, L-CSS, TVT, L4DC, CDC, ACC, IFAC, CONES, Automatica, Transactions on Information Theory. 
-NextCom: CDC Ambassador. 
-
+<ul>
+<li> Peer reviewer: ICLR, TAC, L-CSS, TVT, L4DC, CDC, ACC, IFAC, CONES, Automatica, Transactions on Information Theory. </li>
+<li> NextCom: CDC Ambassador. </li>
+  
+</ul>
 

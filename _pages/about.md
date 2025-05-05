@@ -35,9 +35,9 @@ Papers
 
 [11] D. Zhan, <b> LF. Toso </b>, J. Anderson, ["Coreset-Based Task Selection for Sample-Efficient Meta-Reinforcement Learning"](https://arxiv.org/pdf/2502.02332). Under review, 2025. 
 
-[10] B. Lee*, <b> LF. Toso* </b>, T. Zhang*, J. Anderson, N. Matni, ["Regret Analysis of Multi-task Representation Learning for Linear-Quadratic Adaptive Control"](https://ojs.aaai.org/index.php/AAAI/article/view/33987). AAAI, 2025. 
+[10] B. Lee <sup>*</sup>, <b> LF. Toso <sup>*</sup> </b>, T. Zhang <sup>*</sup>, J. Anderson, N. Matni, ["Regret Analysis of Multi-task Representation Learning for Linear-Quadratic Adaptive Control"](https://ojs.aaai.org/index.php/AAAI/article/view/33987). AAAI, 2025. 
 
-[9] <b>LF. Toso*</b>, H. Wang*, J. Anderson, ["Asynchronous Heterogeneous Linear Quadratic Regulator Design"](https://arxiv.org/abs/2404.09061). CDC, 2024. 
+[9] <b>LF. Toso<sup>*</sup> </b>, H. Wang <sup>*</sup>, J. Anderson, ["Asynchronous Heterogeneous Linear Quadratic Regulator Design"](https://arxiv.org/abs/2404.09061). CDC, 2024. 
 
 [8] [**Best Paper Award**](https://l4dc.web.ox.ac.uk/best-paper-awards) - <b>LF. Toso</b>, D. Zhang, J. Anderson, H. Wang, ["Meta-Learning Linear Quadratic Regulators: A Policy Gradient MAML Approach for Model-free LQR"](https://arxiv.org/abs/2401.14534). L4DC, 2024 <b>(oral - top 7.5%)</b>.
 

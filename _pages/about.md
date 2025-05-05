@@ -25,11 +25,13 @@ Over the past few years, I had the pleasure of collaborating with brilliant peop
 <b>Students:</b> [Han Wang](https://scholar.google.com/citations?user=ALzWbZQAAAAJ&hl=en) (FL for estimation and control), [Thomas Zhang](https://thomaszh3.github.io/) (multi-task rep. learning), [Bruce D. Lee](https://brucedlee.github.io/) (adaptive control), [Donglin Zhan](https://scholar.google.com/citations?hl=en&user=SkUje2YAAAAJ&view_op=list_works&sortby=pubdate) (meta-learning LQR). 
 
 
-<b>Professors:</b> [James Anderson](https://www.columbia.edu/~ja3451/) (Columbia University), [Nikolai Matni](https://nikolaimatni.github.io/) (UPenn), [Aritra Mitra](https://amitra2.wordpress.ncsu.edu/) (NC State University).
+<b>Professors:</b> [James Anderson](https://www.columbia.edu/~ja3451/) (Columbia University), [Nikolai Matni](https://nikolaimatni.github.io/) (UPenn), [Aritra Mitra](https://amitra2.wordpress.ncsu.edu/) (NC State University), [Lintao Ye](https://sites.google.com/view/lintao-ye) (HUST).
 
 
 Papers
 ------
+
+[12] <b> LF. Toso </b>, L. Ye, J. Anderson, ["Learning Stabilizing Policies via an Unstable Subspace Representation"](https://arxiv.org/abs/2505.01348). Under review, 2025. 
 
 [11] D. Zhan, <b> LF. Toso </b>, J. Anderson, ["Coreset-Based Task Selection for Sample-Efficient Meta-Reinforcement Learning"](https://arxiv.org/pdf/2502.02332). Under review, 2025. 
 

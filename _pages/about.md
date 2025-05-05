@@ -35,7 +35,7 @@ Papers
 
 [11] D. Zhan, <b> LF. Toso </b>, J. Anderson, ["Coreset-Based Task Selection for Sample-Efficient Meta-Reinforcement Learning"](https://arxiv.org/pdf/2502.02332). Under review, 2025. 
 
-[10] B. Lee^*, <b> LF. Toso^* </b>, T. Zhang^*, J. Anderson, N. Matni, ["Regret Analysis of Multi-task Representation Learning for Linear-Quadratic Adaptive Control"](https://arxiv.org/pdf/2407.05781). AAAI, 2025. 
+[10] B. Lee<sub>*</sub>, <b> LF. Toso<sub>*</sub> </b>, T. Zhang<sub>*</sub>, J. Anderson, N. Matni, ["Regret Analysis of Multi-task Representation Learning for Linear-Quadratic Adaptive Control"](https://arxiv.org/pdf/2407.05781). AAAI, 2025. 
 
 [9] <b> LF. Toso* </b>, H. Wang*, J. Anderson, ["Asynchronous Heterogeneous Linear Quadratic Regulator Design"](https://arxiv.org/abs/2404.09061). CDC, 2024. 
 

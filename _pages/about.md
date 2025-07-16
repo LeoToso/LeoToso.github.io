@@ -33,9 +33,9 @@ Papers
 
 [13]  K. Fallah, <b> LF. Toso </b>, J. Anderson, ["On the Gradient Domination of the LQG Problem"](https://arxiv.org/abs/2507.09026). Under review, 2025. 
 
-[12] <b> LF. Toso </b>, L. Ye, J. Anderson, ["Learning Stabilizing Policies via an Unstable Subspace Representation"](https://arxiv.org/abs/2505.01348). Under review, 2025. 
+[12] <b> LF. Toso </b>, L. Ye, J. Anderson, ["Learning Stabilizing Policies via an Unstable Subspace Representation"](https://arxiv.org/abs/2505.01348). To appear at CDC 2025. 
 
-[11] D. Zhan, <b> LF. Toso </b>, J. Anderson, ["Coreset-Based Task Selection for Sample-Efficient Meta-Reinforcement Learning"](https://arxiv.org/pdf/2502.02332). Under review, 2025. 
+[11] D. Zhan, <b> LF. Toso </b>, J. Anderson, ["Coreset-Based Task Selection for Sample-Efficient Meta-Reinforcement Learning"](https://arxiv.org/pdf/2502.02332). To appear at CDC 2025.
 
 [10] B. Lee<sup>*</sup>, <b> LF. Toso<sup>*</sup> </b>, T. Zhang<sup>*</sup>, J. Anderson, N. Matni, ["Regret Analysis of Multi-task Representation Learning for Linear-Quadratic Adaptive Control"](https://ojs.aaai.org/index.php/AAAI/article/view/33987). AAAI, 2025. 
 

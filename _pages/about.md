@@ -26,11 +26,13 @@ Over the past few years, I had the pleasure of collaborating with brilliant peop
 
 <b>Postdocs:</b> [Anna Scampicchio](https://scholar.google.com/citations?user=q6pq5OwAAAAJ&hl=de) (ETH), [Anastasios Tsiamis](https://n.ethz.ch/~atsiamis/) (ETH)
 
-<b>Professors:</b> [James Anderson](https://www.columbia.edu/~ja3451/) (Columbia University), [Nikolai Matni](https://nikolaimatni.github.io/) (UPenn), [Melanie Zeilinger](https://idsc.ethz.ch/research-zeilinger/people/person-detail.MTQyNzM3.TGlzdC8xOTI5LDg4NTM5MTE3.html) (ETH) [Aritra Mitra](https://amitra2.wordpress.ncsu.edu/) (NC State University), [George Pappas](https://www.georgejpappas.org/) (UPenn),  [Lintao Ye](https://sites.google.com/view/lintao-ye) (HUST).
+<b>Professors:</b> [James Anderson](https://www.columbia.edu/~ja3451/) (Columbia University), [Nikolai Matni](https://nikolaimatni.github.io/) (UPenn), [Melanie Zeilinger](https://idsc.ethz.ch/research-zeilinger/people/person-detail.MTQyNzM3.TGlzdC8xOTI5LDg4NTM5MTE3.html) (ETH), [Aritra Mitra](https://amitra2.wordpress.ncsu.edu/) (NC State University), [George Pappas](https://www.georgejpappas.org/) (UPenn),  [Lintao Ye](https://sites.google.com/view/lintao-ye) (HUST).
 
 
 Papers
 ------
+
+[14] C. Stamouli<sup>*</sup>, <b> LF. Toso<sup>*</sup>, A. Tsiamis, G. Pappas, J. Anderson, ["Policy Gradient Bounds in Multitask LQR"](https://arxiv.org/abs/2509.19266). Under review, 2025. 
 
 [13]  K. Fallah, <b> LF. Toso </b>, J. Anderson, ["On the Gradient Domination of the LQG Problem"](https://arxiv.org/abs/2507.09026). Under review, 2025. 
 

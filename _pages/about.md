@@ -22,7 +22,7 @@ Collaborators
 ------
 Over the past few years, I had the pleasure of collaborating with brilliant people:
 
-<b>Students:</b> [Han Wang](https://scholar.google.com/citations?user=ALzWbZQAAAAJ&hl=en) (FL for estimation and control), [Thomas Zhang](https://thomaszh3.github.io/) (multi-task rep. learning), [Bruce D. Lee](https://brucedlee.github.io/) (adaptive control), [Donglin Zhan](https://scholar.google.com/citations?hl=en&user=SkUje2YAAAAJ&view_op=list_works&sortby=pubdate) (meta-learning for RL and control), [Charis Charis Stamouli](https://charis-stamouli.github.io/) (bisimulation bounds for multitask LQR), [Rahel Rickenbach](https://scholar.google.com/citations?user=4pRRiYIAAAAJ&hl=de) (learning with priors), [Kasra Fallah](https://scholar.google.com/citations?user=3yPgWtQAAAAJ&hl=en) (linear–quadratic–Gaussian control). 
+<b>Students:</b> [Han Wang](https://scholar.google.com/citations?user=ALzWbZQAAAAJ&hl=en) (FL for estimation and control), [Thomas Zhang](https://thomaszh3.github.io/) (multi-task rep. learning), [Bruce D. Lee](https://brucedlee.github.io/) (adaptive control), [Donglin Zhan](https://scholar.google.com/citations?hl=en&user=SkUje2YAAAAJ&view_op=list_works&sortby=pubdate) (meta-learning for RL and control), [Charis Stamouli](https://charis-stamouli.github.io/) (bisimulation bounds for multitask LQR), [Rahel Rickenbach](https://scholar.google.com/citations?user=4pRRiYIAAAAJ&hl=de) (learning with priors), [Kasra Fallah](https://scholar.google.com/citations?user=3yPgWtQAAAAJ&hl=en) (linear–quadratic–Gaussian control). 
 
 <b>Postdocs:</b> [Anna Scampicchio](https://scholar.google.com/citations?user=q6pq5OwAAAAJ&hl=de) (ETH), [Anastasios Tsiamis](https://n.ethz.ch/~atsiamis/) (ETH)
 

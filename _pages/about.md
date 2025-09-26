@@ -32,7 +32,7 @@ Over the past few years, I had the pleasure of collaborating with brilliant peop
 Papers
 ------
 
-[14] C. Stamouli<sup>*</sup>, <b> LF. Toso<sup>*</sup>, A. Tsiamis, G. Pappas, J. Anderson, ["Policy Gradient Bounds in Multitask LQR"](https://arxiv.org/abs/2509.19266). Under review, 2025. 
+[14] C. Stamouli<sup>*</sup>, <b> LF. Toso<sup>*</sup> </b>, A. Tsiamis, G. Pappas, J. Anderson, ["Policy Gradient Bounds in Multitask LQR"](https://arxiv.org/abs/2509.19266). Under review, 2025. 
 
 [13]  K. Fallah, <b> LF. Toso </b>, J. Anderson, ["On the Gradient Domination of the LQG Problem"](https://arxiv.org/abs/2507.09026). Under review, 2025. 
 

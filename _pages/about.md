@@ -32,6 +32,8 @@ Over the past few years, I had the pleasure of collaborating with brilliant peop
 Papers
 ------
 
+[15] A. Scampicchio<sup>*</sup>, <b>LF. Toso<sup>*</sup></b>, R. Rickenbach, J. Anderson, M. Zeilinger, ["Physics-informed learning under mixing: How physical knowledge speeds up learning"](https://arxiv.org/abs/2509.24801). Under review, 2025.
+
 [14] C. Stamouli<sup>*</sup>, <b>LF. Toso<sup>*</sup></b>, A. Tsiamis, G. Pappas, J. Anderson, ["Policy Gradient Bounds in Multitask LQR"](https://arxiv.org/abs/2509.19266). Under review, 2025. 
 
 [13]  K. Fallah, <b> LF. Toso </b>, J. Anderson, ["On the Gradient Domination of the LQG Problem"](https://arxiv.org/abs/2507.09026). Under review, 2025. 
@@ -83,7 +85,7 @@ Over the Summer and Fall of 2023, I had the pleasure of mentoring two outstandin
 Teaching
 ------
 
-In Fall 2025 I'll be serving as the instructor of Convex Optimization (E4650) at Columbia University. Over the past few years I served as a head TA for:
+<b>In Fall 2025 I'll be serving as the instructor of Convex Optimization (E4650) at Columbia University</b>. Over the past few years I served as a head TA for:
 
 <ul>
 <li>  Convex Optimization, Fall 2022 and 2023, Columbia University. </li>

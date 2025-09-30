@@ -78,8 +78,9 @@ Talks
 Mentoring
 ------
 Over the Summer and Fall of 2023, I had the pleasure of mentoring two outstanding M.S. EE students at Columbia:
-1. <b>Patrick Munar </b> on "Controlling Balanced Intravenous and Volatile Anesthesia" (paper in preparation).
+1. <b>Patrick Munar </b> on "Controlling Balanced Intravenous and Volatile Anesthesia".
 2. <b>Zhe Mo </b> on ["SOSPy: A Python library for solving sum-of-squares programming"](https://pypi.org/project/SOSPy/).
+3. <b> Davit Shadunts </b> and <b> Yunyang Lu </b> on "World Models for Sequential Decision Making"
 
 
 Teaching

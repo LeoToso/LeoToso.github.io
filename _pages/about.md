@@ -86,7 +86,7 @@ Over the Summer and Fall of 2023, I had the pleasure of mentoring two outstandin
 Teaching
 ------
 
-<b>In Fall 2025 I'll be serving as the instructor of Convex Optimization (E4650) at Columbia University</b>. Over the past few years I served as a head TA for:
+<b>In Fall 2025 I'll be serving as the instructor of Convex Optimization (E4650) at Columbia University</b>. Over the past few years I have also served as a head TA for:
 
 <ul>
 <li>  Convex Optimization, Fall 2022 and 2023, Columbia University. </li>

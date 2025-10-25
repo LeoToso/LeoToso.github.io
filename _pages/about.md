@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I'm a Teaching, Presidential and CAIRFI (Center for AI and Responsible Financial Innovation) fellow and a forth-year Ph.D. student in the Department of Electrical Engineering at Columbia University advised by Prof. [James Anderson](https://www.columbia.edu/~ja3451/). Before joining Columbia, I was a research assistant in the Department of Engineering Science at the University of Oxford. I was awarded the M.S. in Control, Signal, and Image Processing from the University of Paris-Saclay and the M.Eng. in Electrical Engineering from CentraleSupélec both in 2022. In addition, I received my B.Eng. in Electrical Engineering from the University of Campinas (Unicamp) also in 2022.
+I'm a Teaching, Presidential and CAIRFI (Center for AI and Responsible Financial Innovation) fellow and a fourth-year Ph.D. student in the Department of Electrical Engineering at Columbia University advised by Prof. [James Anderson](https://www.columbia.edu/~ja3451/). Before joining Columbia, I was a research assistant in the Department of Engineering Science at the University of Oxford. I was awarded the M.S. in Control, Signal, and Image Processing from the University of Paris-Saclay and the M.Eng. in Electrical Engineering from CentraleSupélec both in 2022. In addition, I received my B.Eng. in Electrical Engineering from the University of Campinas (Unicamp) also in 2022.
 
 
 Research Interests

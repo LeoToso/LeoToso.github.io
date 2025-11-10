@@ -32,7 +32,7 @@ Over the past few years, I had the pleasure of collaborating with brilliant peop
 Papers
 ------
 
-[16] K. Fallah<sup>*</sup>, <b>LF. Toso<sup>*</sup></b>, J. Anderson, ["Adversarially Robust Multitask Adaptive Control"](https://arxiv.org/pdf/2511.05444). Under review, 2025.
+[16] K. Fallah<sup>*</sup>, <b>LF. Toso<sup>*</sup></b>, J. Anderson, ["Adversarially Robust Multitask Adaptive Control"](https://arxiv.org/pdf/2511.05444). 2025.
 
 [15] A. Scampicchio<sup>*</sup>, <b>LF. Toso<sup>*</sup></b>, R. Rickenbach, J. Anderson, M. Zeilinger, ["Physics-informed learning under mixing: How physical knowledge speeds up learning"](https://arxiv.org/abs/2509.24801). Under review, 2025.
 

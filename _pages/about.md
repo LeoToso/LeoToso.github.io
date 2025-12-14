@@ -32,17 +32,17 @@ Over the past few years, I had the pleasure of collaborating with brilliant peop
 Papers
 ------
 
-[16] K. Fallah<sup>*</sup>, <b>LF. Toso<sup>*</sup></b>, J. Anderson, ["Adversarially Robust Multitask Adaptive Control"](https://arxiv.org/pdf/2511.05444). 2025.
+[16] K. Fallah<sup>*</sup>, <b>LF. Toso<sup>*</sup></b>, J. Anderson, ["Adversarially Robust Multitask Adaptive Control"](https://arxiv.org/pdf/2511.05444). Under review 2025.
 
 [15] A. Scampicchio<sup>*</sup>, <b>LF. Toso<sup>*</sup></b>, R. Rickenbach, J. Anderson, M. Zeilinger, ["Physics-informed learning under mixing: How physical knowledge speeds up learning"](https://arxiv.org/abs/2509.24801). Under review, 2025.
 
-[14] C. Stamouli<sup>*</sup>, <b>LF. Toso<sup>*</sup></b>, A. Tsiamis, G. Pappas, J. Anderson, ["Policy Gradient Bounds in Multitask LQR"](https://arxiv.org/abs/2509.19266). To appear at L-CSS, 2025. 
+[14] C. Stamouli<sup>*</sup>, <b>LF. Toso<sup>*</sup></b>, A. Tsiamis, G. Pappas, J. Anderson, ["Policy Gradient Bounds in Multitask LQR"](https://arxiv.org/abs/2509.19266). L-CSS, 2025. 
 
 [13]  K. Fallah, <b> LF. Toso </b>, J. Anderson, ["On the Gradient Domination of the LQG Problem"](https://arxiv.org/abs/2507.09026). Under review, 2025. 
 
-[12] **Outstanding Paper Award** -  <b> LF. Toso </b>, L. Ye, J. Anderson, ["Learning Stabilizing Policies via an Unstable Subspace Representation"](https://arxiv.org/abs/2505.01348). To appear at CDC 2025. 
+[12] <b> LF. Toso </b>, L. Ye, J. Anderson, ["Learning Stabilizing Policies via an Unstable Subspace Representation"](https://arxiv.org/abs/2505.01348). CDC 2025 (**Outstanding Paper Award**). 
 
-[11] D. Zhan, <b> LF. Toso </b>, J. Anderson, ["Coreset-Based Task Selection for Sample-Efficient Meta-Reinforcement Learning"](https://arxiv.org/pdf/2502.02332). To appear at CDC 2025.
+[11] D. Zhan, <b> LF. Toso </b>, J. Anderson, ["Coreset-Based Task Selection for Sample-Efficient Meta-Reinforcement Learning"](https://arxiv.org/pdf/2502.02332). CDC 2025.
 
 [10] B. Lee<sup>*</sup>, <b> LF. Toso<sup>*</sup> </b>, T. Zhang<sup>*</sup>, J. Anderson, N. Matni, ["Regret Analysis of Multi-task Representation Learning for Linear-Quadratic Adaptive Control"](https://ojs.aaai.org/index.php/AAAI/article/view/33987). AAAI, 2025. 
 

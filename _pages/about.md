@@ -40,7 +40,7 @@ Papers
 
 [13]  K. Fallah, <b> LF. Toso </b>, J. Anderson, ["On the Gradient Domination of the LQG Problem"](https://arxiv.org/abs/2507.09026). Under review, 2025. 
 
-[12] **Outstanding Paper Award** <b> LF. Toso </b>, L. Ye, J. Anderson, ["Learning Stabilizing Policies via an Unstable Subspace Representation"](https://arxiv.org/abs/2505.01348). To appear at CDC 2025. 
+[12] **Outstanding Paper Award** -  <b> LF. Toso </b>, L. Ye, J. Anderson, ["Learning Stabilizing Policies via an Unstable Subspace Representation"](https://arxiv.org/abs/2505.01348). To appear at CDC 2025. 
 
 [11] D. Zhan, <b> LF. Toso </b>, J. Anderson, ["Coreset-Based Task Selection for Sample-Efficient Meta-Reinforcement Learning"](https://arxiv.org/pdf/2502.02332). To appear at CDC 2025.
 
@@ -69,6 +69,10 @@ Papers
 
 Talks
 ------
+
+[5] CDC 2025, Rio, Brazil. "Learning Stabilizing Policies via an Unstable Subspace Representation". [Slides.]
+
+[4] CDC 2025, Rio, Brazil. "Coreset-Based Task Selection for Sample-Efficient Meta-Reinforcement Learning". [Slides.]
 
 [3] CDC 2024, Milan, Italy. "Asynchronous Heterogeneous Linear Quadratic Regulator Design". [Slides.](https://drive.google.com/file/d/1fv-Ly3dD3d7Pzf_PmmyG0b_xMQw7UOqn/view?usp=sharing) 
 

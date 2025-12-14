@@ -70,9 +70,9 @@ Papers
 Talks
 ------
 
-[5] CDC 2025, Rio, Brazil. "Learning Stabilizing Policies via an Unstable Subspace Representation". [Slides.]
+[5] CDC 2025, Rio, Brazil. "Learning Stabilizing Policies via an Unstable Subspace Representation". 
 
-[4] CDC 2025, Rio, Brazil. "Coreset-Based Task Selection for Sample-Efficient Meta-Reinforcement Learning". [Slides.]
+[4] CDC 2025, Rio, Brazil. "Coreset-Based Task Selection for Sample-Efficient Meta-Reinforcement Learning". 
 
 [3] CDC 2024, Milan, Italy. "Asynchronous Heterogeneous Linear Quadratic Regulator Design". [Slides.](https://drive.google.com/file/d/1fv-Ly3dD3d7Pzf_PmmyG0b_xMQw7UOqn/view?usp=sharing) 
 

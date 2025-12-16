@@ -70,7 +70,7 @@ Papers
 Talks
 ------
 
-[5] CDC 2025, Rio, Brazil. "Learning Stabilizing Policies via an Unstable Subspace Representation". 
+[5] CDC 2025, Rio, Brazil. "Learning Stabilizing Policies via an Unstable Subspace Representation"[Slides](https://www.columbia.edu/~ja3451/talks/CDC_2025_LTS.pdf). 
 
 [4] CDC 2025, Rio, Brazil. "Coreset-Based Task Selection for Sample-Efficient Meta-Reinforcement Learning". 
 

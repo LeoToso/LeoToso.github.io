@@ -36,7 +36,7 @@ Papers
 
 [15] A. Scampicchio<sup>*</sup>, <b>LF. Toso<sup>*</sup></b>, R. Rickenbach, J. Anderson, M. Zeilinger, ["Physics-informed learning under mixing: How physical knowledge speeds up learning"](https://arxiv.org/abs/2509.24801). Under review, 2025.
 
-[14] C. Stamouli<sup>*</sup>, <b>LF. Toso<sup>*</sup></b>, A. Tsiamis, G. Pappas, J. Anderson, ["Policy Gradient Bounds in Multitask LQR"](https://arxiv.org/abs/2509.19266). L-CSS, 2025. 
+[14] C. Stamouli<sup>*</sup>, <b>LF. Toso<sup>*</sup></b>, A. Tsiamis, G. Pappas, J. Anderson, ["Policy Gradient Bounds in Multitask LQR"](https://arxiv.org/abs/2509.19266). IEEE L-CSS, 2025. 
 
 [13]  K. Fallah, <b> LF. Toso </b>, J. Anderson, ["On the Gradient Domination of the LQG Problem"](https://arxiv.org/abs/2507.09026). Under review, 2025. 
 
@@ -70,7 +70,7 @@ Papers
 Talks
 ------
 
-[5] CDC 2025, Rio, Brazil. "Learning Stabilizing Policies via an Unstable Subspace Representation". [Slides](https://www.columbia.edu/~ja3451/talks/CDC_2025_LTS.pdf)
+[5] CDC 2025, Rio, Brazil. "Learning Stabilizing Policies via an Unstable Subspace Representation". [Slides.](https://www.columbia.edu/~ja3451/talks/CDC_2025_LTS.pdf)
 
 [4] CDC 2025, Rio, Brazil. "Coreset-Based Task Selection for Sample-Efficient Meta-Reinforcement Learning". 
 

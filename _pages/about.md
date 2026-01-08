@@ -54,7 +54,7 @@ Papers
 
 [6] <b>LF. Toso</b>, H. Wang, J. Anderson, ["Oracle Complexity Reduction for Model-free LQR: A Stochastic Variance-Reduced Policy Gradient Approach"](https://arxiv.org/abs/2309.10679). ACC, 2024. 
 
-[5] H. Wang, <b>LF. Toso</b>, A. Mitra, J. Anderson, ["Model-free Learning with Heterogeneous Dynamical Systems: A Federated LQR Approach"](https://arxiv.org/abs/2308.11743). Under review, 2025.
+[5] H. Wang, <b>LF. Toso</b>, A. Mitra, J. Anderson, ["Model-free Learning with Heterogeneous Dynamical Systems: A Federated LQR Approach"](https://arxiv.org/abs/2308.11743). To appear at Transactions on Machine Learning Research (TMLR), 2026.
 
 [4] <b>LF. Toso</b>, H. Wang, J. Anderson, ["Learning Personalized Models with Clustered System Identification"](https://ieeexplore.ieee.org/document/10383950). CDC, 2023. 
 

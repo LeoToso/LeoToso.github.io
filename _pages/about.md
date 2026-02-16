@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I'm a Teaching, Presidential and CAIRFI (Center for AI and Responsible Financial Innovation) fellow and a fourth-year Ph.D. student in the Department of Electrical Engineering at Columbia University advised by Prof. [James Anderson](https://www.columbia.edu/~ja3451/). Before joining Columbia, I was a research assistant in the Department of Engineering Science at the University of Oxford. I was awarded the M.S. in Control, Signal, and Image Processing from the University of Paris-Saclay and the M.Eng. in Electrical Engineering from CentraleSupélec both in 2022. In addition, I received my B.Eng. in Electrical Engineering from the University of Campinas (Unicamp) also in 2022.
+I'm a Presidential and CAIRFI (Center for AI and Responsible Financial Innovation) fellow and a fourth-year Ph.D. candidate in the Department of Electrical Engineering at Columbia University advised by Prof. [James Anderson](https://www.columbia.edu/~ja3451/). Before joining Columbia, I was a research assistant in the Department of Engineering Science at the University of Oxford. I was awarded the M.S. in Control, Signal, and Image Processing from the University of Paris-Saclay and the M.Eng. in Electrical Engineering from CentraleSupélec both in 2022. In addition, I received my B.Eng. in Electrical Engineering from the University of Campinas (Unicamp) also in 2022.
 
 
 Research Interests
@@ -92,7 +92,7 @@ Over the past few years, I had the pleasure of mentoring outstanding M.S. EE stu
 Teaching
 ------
 
-<b>In Fall 2025 I'll be serving as the instructor of Convex Optimization (E4650) at Columbia University</b>. Over the past few years I have also served as a head TA for:
+<b>In Fall 2025 I served as the instructor (teaching fellow) of Convex Optimization (E4650) at Columbia University</b>. Over the past few years I have also served as a head TA for:
 
 <ul>
 <li>  Convex Optimization, Fall 2022 and 2023, Columbia University. </li>
@@ -108,7 +108,7 @@ Service
 ------
 
 <ul>
-<li> NextCom leadership: CDC 2025 Ambassador. </li>
-<li> Peer reviewer: ICLR, AAAI, TAC, L-CSS, TVT, L4DC, CDC, ACC, IFAC, CONES, Automatica, Transactions on Information Theory. </li>
+<li> NextCom leadership: General co-chair 2026-2027, CDC 2025 Ambassador. </li>
+<li> Peer reviewer: ICML, ICLR, AAAI, TAC, L-CSS, TVT, L4DC, CDC, ACC, IFAC, CONES, Automatica, Transactions on Information Theory. </li>
 </ul>
 

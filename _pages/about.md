@@ -26,11 +26,14 @@ Over the past few years, I had the pleasure of collaborating with brilliant peop
 
 <b>Postdocs:</b> [Anna Scampicchio](https://scholar.google.com/citations?user=q6pq5OwAAAAJ&hl=de) (ETH), [Anastasios Tsiamis](https://n.ethz.ch/~atsiamis/) (ETH)
 
+<b>Industry:</b> [Nam H. Nguyen](https://scholar.google.com/citations?user=zzBcUpEAAAAJ&hl=en) (Capital One), [Nihal Sharma](https://scholar.google.com/citations?user=vuxXhDAAAAAJ&hl=en) (Capital One)
+
 <b>Professors:</b> [James Anderson](https://www.columbia.edu/~ja3451/) (Columbia University), [Nikolai Matni](https://nikolaimatni.github.io/) (UPenn), [Melanie Zeilinger](https://idsc.ethz.ch/research-zeilinger/people/person-detail.MTQyNzM3.TGlzdC8xOTI5LDg4NTM5MTE3.html) (ETH), [Aritra Mitra](https://amitra2.wordpress.ncsu.edu/) (NC State University), [George Pappas](https://www.georgejpappas.org/) (UPenn),  [Lintao Ye](https://sites.google.com/view/lintao-ye) (HUST).
 
 
 Papers
 ------
+[17] <b>LF. Toso<sup>*</sup></b>, D. Shadunts<sup>*</sup>, Y. Lu<sup>*</sup>, Nihal Sharma, D. Zhan, NH. Nguyen, J. Anderson, ["Learning Invariant Visual Representations for Planning with Joint-Embedding Predictive World Models"](https://arxiv.org/abs/2602.18639). Under review, 2026.
 
 [16] K. Fallah<sup>*</sup>, <b>LF. Toso<sup>*</sup></b>, J. Anderson, ["Adversarially Robust Multitask Adaptive Control"](https://arxiv.org/pdf/2511.05444). To appear at L4DC 2026.
 
@@ -72,7 +75,7 @@ Talks
 
 [5] CDC 2025, Rio, Brazil. "Learning Stabilizing Policies via an Unstable Subspace Representation". [Slides.](https://www.columbia.edu/~ja3451/talks/CDC_2025_LTS.pdf)
 
-[4] CDC 2025, Rio, Brazil. "Coreset-Based Task Selection for Sample-Efficient Meta-Reinforcement Learning". 
+[4] CDC 2025, Rio, Brazil. "Coreset-Based Task Selection for Sample-Efficient Meta-RL". [Slides](https://drive.google.com/file/d/14opEqm01A1NBBZsBi-GENHB1HZsExAYV/view?usp=sharing) 
 
 [3] CDC 2024, Milan, Italy. "Asynchronous Heterogeneous Linear Quadratic Regulator Design". [Slides.](https://drive.google.com/file/d/1fv-Ly3dD3d7Pzf_PmmyG0b_xMQw7UOqn/view?usp=sharing) 
 
@@ -86,13 +89,13 @@ Mentoring
 Over the past few years, I had the pleasure of mentoring outstanding M.S. EE students at Columbia:
 1. <b>Patrick Munar </b> on "Controlling Balanced Intravenous and Volatile Anesthesia".
 2. <b>Zhe Mo </b> on ["SOSPy: A Python library for solving sum-of-squares programming"](https://pypi.org/project/SOSPy/).
-3. <b> Davit Shadunts </b> and <b> Yunyang Lu </b> on "World Models for Sequential Decision Making"
+3. <b> Davit Shadunts </b> and <b> Yunyang Lu </b> on ["World Models for Sequential Decision Making"](https://arxiv.org/abs/2602.18639)
 
 
 Teaching
 ------
 
-<b>In Fall 2025 I served as the instructor (teaching fellow) of Convex Optimization (E4650) at Columbia University</b>. Over the past few years I have also served as a head TA for:
+<b>In Fall 2025, I served as the Instructor (Teaching Fellow) for Convex Optimization (E4650) at Columbia University</b>. Over the past few years I have also served as a head TA for:
 
 <ul>
 <li>  Convex Optimization, Fall 2022 and 2023, Columbia University. </li>
@@ -109,6 +112,7 @@ Service
 
 <ul>
 <li> NextCom leadership: General co-chair 2026-2027, CDC 2025 Ambassador. </li>
+<li> EE Ambassadors at Columbia University </li>
 <li> Peer reviewer: ICML, ICLR, AAAI, TAC, L-CSS, TVT, L4DC, CDC, ACC, IFAC, CONES, Automatica, Transactions on Information Theory. </li>
 </ul>
 

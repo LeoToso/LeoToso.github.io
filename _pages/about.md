@@ -73,6 +73,15 @@ Papers
 Talks
 ------
 
+[8] IfA coffee talk, ETH Zurich, Switzerland. "Foundation Control Policies: From Multitask LQR To
+Invariant Joint-Embedding Predictive Architectures". [Slides.](https://drive.google.com/file/d/1NJpWG5QbXFT6d-H931JnX62sZuBms_rH/view?usp=sharing)
+
+[7] AI Days conference, Fribourg, Switzerland. "Learning What to Share: Feature Learning for
+Adversarially Robust Federated Systems". [Slides](https://drive.google.com/file/d/1g1qsCQNDYcuxqTDMBizNL3T1-lWMYwBJ/view?usp=sharing)
+
+[6] OXCAV Seminar, Oxford, UK. "Foundation Control Policies: From Multitask LQR To
+Invariant Joint-Embedding Predictive Architectures". [Slides.](https://drive.google.com/file/d/1Lffmj5ELwp227GS2VhoTWEoC7PcyjJna/view?usp=sharing) 
+
 [5] CDC 2025, Rio, Brazil. "Learning Stabilizing Policies via an Unstable Subspace Representation". [Slides.](https://www.columbia.edu/~ja3451/talks/CDC_2025_LTS.pdf)
 
 [4] CDC 2025, Rio, Brazil. "Coreset-Based Task Selection for Sample-Efficient Meta-RL". [Slides](https://drive.google.com/file/d/14opEqm01A1NBBZsBi-GENHB1HZsExAYV/view?usp=sharing) 
@@ -90,6 +99,7 @@ Over the past few years, I had the pleasure of mentoring outstanding M.S. EE stu
 1. <b>Patrick Munar </b> on "Controlling Balanced Intravenous and Volatile Anesthesia".
 2. <b>Zhe Mo </b> on ["SOSPy: A Python library for solving sum-of-squares programming"](https://pypi.org/project/SOSPy/).
 3. <b> Davit Shadunts </b> and <b> Yunyang Lu </b> on ["World Models for Sequential Decision Making"](https://arxiv.org/abs/2602.18639)
+4.  <b> Aaron Cherian </b> on "Neural Attention Mechanisms for Linear Quadratic Regulation". 
 
 
 Teaching

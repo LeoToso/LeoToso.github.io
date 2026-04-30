@@ -33,6 +33,9 @@ Over the past few years, I had the pleasure of collaborating with brilliant peop
 
 Papers
 ------
+
+[18] <b>LF. Toso<sup>*</sup></b>, C. Stamouli<sup>*</sup>, K. Fallah<sup>*</sup>, G. Pappas, J. Anderson, ["Multitask LQG Control: Performance and Generalization Bounds"](https://arxiv.org/pdf/2604.16730). Under review 2026.
+
 [17] <b>LF. Toso<sup>*</sup></b>, D. Shadunts<sup>*</sup>, Y. Lu<sup>*</sup>, Nihal Sharma, D. Zhan, NH. Nguyen, J. Anderson, ["Learning Invariant Visual Representations for Planning with Joint-Embedding Predictive World Models"](https://arxiv.org/abs/2602.18639). Under review, 2026.
 
 [16] K. Fallah<sup>*</sup>, <b>LF. Toso<sup>*</sup></b>, J. Anderson, ["Adversarially Robust Multitask Adaptive Control"](https://arxiv.org/pdf/2511.05444). To appear at L4DC 2026.

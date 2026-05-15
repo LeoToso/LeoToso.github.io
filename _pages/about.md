@@ -19,7 +19,7 @@ I have received the Electrical Engineering <b>Distingueshed Teaching Award</b> f
 Research Interests
 ------
 
-My research interests lie at the intersection of <b>control theory</b>, <b>machine learning</b>, and <b>optimization</b>. 
+My research interests lie at the intersection of <b>control theory</b>, <b>learning theory</b>, and <b>optimization</b>. 
 
 
 Collaborators

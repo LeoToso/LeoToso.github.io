@@ -38,17 +38,17 @@ Over the past few years, I had the pleasure of collaborating with brilliant peop
 Papers
 ------
 
-[18] <b>LF. Toso<sup>*</sup></b>, C. Stamouli<sup>*</sup>, K. Fallah<sup>*</sup>, G. Pappas, J. Anderson, ["Multitask LQG Control: Performance and Generalization Bounds"](https://arxiv.org/pdf/2604.16730). Under review 2026.
+[18] <b>LF. Toso<sup>*</sup></b>, C. Stamouli<sup>*</sup>, K. Fallah<sup>*</sup>, G. Pappas, J. Anderson, ["Multitask LQG Control: Performance and Generalization Bounds"](https://arxiv.org/pdf/2604.16730). Accepted at the 65th Conference on Decision and Control (CDC).
 
 [17] <b>LF. Toso<sup>*</sup></b>, D. Shadunts<sup>*</sup>, Y. Lu<sup>*</sup>, Nihal Sharma, D. Zhan, NH. Nguyen, J. Anderson, ["Learning Invariant Visual Representations for Planning with Joint-Embedding Predictive World Models"](https://arxiv.org/abs/2602.18639). Under review, 2026.
 
-[16] K. Fallah<sup>*</sup>, <b>LF. Toso<sup>*</sup></b>, J. Anderson, ["Adversarially Robust Multitask Adaptive Control"](https://arxiv.org/pdf/2511.05444). To appear at L4DC 2026.
+[16] K. Fallah<sup>*</sup>, <b>LF. Toso<sup>*</sup></b>, J. Anderson, ["Adversarially Robust Multitask Adaptive Control"](https://arxiv.org/pdf/2511.05444). L4DC 2026.
 
-[15] A. Scampicchio<sup>*</sup>, <b>LF. Toso<sup>*</sup></b>, R. Rickenbach, J. Anderson, M. Zeilinger, ["Physics-informed learning under mixing: How physical knowledge speeds up learning"](https://arxiv.org/abs/2509.24801). To appear at ICLR 2026.
+[15] A. Scampicchio<sup>*</sup>, <b>LF. Toso<sup>*</sup></b>, R. Rickenbach, J. Anderson, M. Zeilinger, ["Physics-informed learning under mixing: How physical knowledge speeds up learning"](https://arxiv.org/abs/2509.24801). ICLR 2026.
 
 [14] C. Stamouli<sup>*</sup>, <b>LF. Toso<sup>*</sup></b>, A. Tsiamis, G. Pappas, J. Anderson, ["Policy Gradient Bounds in Multitask LQR"](https://arxiv.org/abs/2509.19266). IEEE L-CSS, 2025. ACC 2026. 
 
-[13]  K. Fallah, <b> LF. Toso </b>, J. Anderson, ["On the Gradient Domination of the LQG Problem"](https://arxiv.org/abs/2507.09026). Under review, 2025. 
+[13]  K. Fallah, <b> LF. Toso </b>, J. Anderson, ["On the Gradient Domination of the LQG Problem"](https://arxiv.org/abs/2507.09026). Under review, 2026. 
 
 [12] <b> LF. Toso </b>, L. Ye, J. Anderson, ["Learning Stabilizing Policies via an Unstable Subspace Representation"](https://arxiv.org/abs/2505.01348). CDC 2025 ([**Outstanding Paper Award**](https://www.ee.columbia.edu/news/phd-student-leonardo-toso-receives-outstanding-paper-award-ieee-conference-decision-and)). 
 

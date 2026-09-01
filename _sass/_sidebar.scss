@@ -83,12 +83,20 @@
   }
 
   img {
+    width: 175px;
+    height: 175px;
     max-width: 175px;
+    object-fit: cover;
+    object-position: center 15%;
     border-radius: 50%;
+    box-shadow: 0 4px 18px rgba(#000, 0.12);
 
     @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
+      width: 200px;
+      height: 200px;
+      max-width: 200px;
+      padding: 0;
+      border: none;
     }
   }
 }

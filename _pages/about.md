@@ -1,18 +1,18 @@
 ---
+layout: home
 permalink: /
-title: "About me"
+title: "Leonardo F. Toso"
 excerpt: "Leo Toso"
-author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-
-I'm a Presidential and CAIRFI (Center for AI and Responsible Financial Innovation) fellow and a final year Ph.D. candidate in the Department of Electrical Engineering at Columbia University advised by Prof. [James Anderson](https://www.columbia.edu/~ja3451/). Before joining Columbia, I was a research assistant in the Department of Engineering Science at the University of Oxford. I was awarded the M.S. in Control, Signal, and Image Processing from the University of Paris-Saclay and the M.Eng. in Electrical Engineering from CentraleSupélec both in 2022. In addition, I received my B.Eng. in Electrical Engineering from the University of Campinas (Unicamp) also in 2022.
+I'm a Presidential and CAIRFI (Center for AI and Responsible Financial Innovation) fellow in the Department of Electrical Engineering at Columbia University advised by Prof. [James Anderson](https://www.columbia.edu/~ja3451/). Before joining Columbia, I was a research assistant in the Department of Engineering Science at the University of Oxford. I was awarded the M.S. in Control, Signal, and Image Processing from the University of Paris-Saclay and the M.Eng. in Electrical Engineering from CentraleSupélec both in 2022. In addition, I received my B.Eng. in Electrical Engineering from the University of Campinas (Unicamp) also in 2022.
 
 I have received the Electrical Engineering <b>Distingueshed Teaching Award</b> from Columbia University for teaching Convex Optimization during Fall 2025.
 
+<!--split-->
 
 Research Interests
 ------

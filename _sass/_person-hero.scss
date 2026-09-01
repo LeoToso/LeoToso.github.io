@@ -1,0 +1,117 @@
+/* ==========================================================================
+   PERSON HERO (homepage)
+   ========================================================================== */
+
+.home-page .page__inner-wrap {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.person-hero {
+  display: flex;
+  flex-direction: column-reverse;
+  gap: 2em;
+  margin-bottom: 2.5em;
+
+  @include breakpoint($medium) {
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 3em;
+  }
+}
+
+.person-hero__text {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.person-hero__name {
+  margin: 0 0 0.3em;
+  font-family: $sans-serif;
+  font-size: $type-size-1;
+  font-weight: 400;
+  line-height: 1.1;
+  color: $text-color;
+
+  &--accent {
+    font-weight: 700;
+  }
+}
+
+.person-hero__tagline {
+  margin: 0 0 1.25em;
+  font-size: $type-size-4;
+  color: $primary-color;
+
+  a {
+    color: $accent-color;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+.person-hero__bio {
+  font-size: 1em;
+
+  p {
+    margin: 0 0 1.25em;
+  }
+
+  a {
+    color: $accent-color;
+  }
+}
+
+.person-hero__links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5em 1.5em;
+  margin-top: 1.5em;
+
+  a {
+    color: $accent-color;
+    font-size: $type-size-5;
+    font-weight: 500;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+
+    i {
+      margin-right: 0.15em;
+    }
+  }
+}
+
+.person-hero__photo {
+  flex: 0 0 auto;
+  width: 100%;
+  max-width: 260px;
+  margin: 0 auto;
+
+  @include breakpoint($medium) {
+    width: 280px;
+    margin: 0;
+  }
+
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 3 / 4;
+    object-fit: cover;
+    object-position: center 15%;
+    border-radius: 14px;
+  }
+}
+
+.person-sections {
+  h2 {
+    font-size: $type-size-3;
+    font-weight: 600;
+  }
+}

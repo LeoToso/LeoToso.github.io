@@ -2,7 +2,6 @@
 layout: single
 title: "Teaching"
 permalink: /teaching/
-author_profile: true
 ---
 
 <b>In Fall 2025, I served as the Instructor (Teaching Fellow) for Convex Optimization (E4650) at Columbia University</b>. Over the past few years I have also served as a head TA for:

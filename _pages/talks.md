@@ -2,7 +2,6 @@
 layout: single
 title: "Talks and presentations"
 permalink: /talks/
-author_profile: true
 ---
 
 [9] NESCW, Princeton. "Physics-informed learning under mixing:

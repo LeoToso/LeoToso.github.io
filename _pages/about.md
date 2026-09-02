@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /
-title: "Leonardo F. Toso"
+title: "Leonardo Toso"
 excerpt: "Leo Toso"
 redirect_from: 
   - /about/

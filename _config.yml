@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Leonardo F. Toso"
+title                    : "Leonardo Toso"
 title_separator          : "-"
-name                     : &name "Leonardo F. Toso"
+name                     : &name "Leonardo Toso"
 description              : &description "personal description"
 url                      : https://leotoso.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Leonardo F. Toso"
+  name             : "Leonardo Toso"
   avatar           : "leo-photo.jpg"
   bio              : "EE Ph.D. student at Columbia University"
   location         : "New York City, NY"

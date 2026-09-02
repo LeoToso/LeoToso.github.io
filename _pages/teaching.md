@@ -4,13 +4,12 @@ title: "Teaching"
 permalink: /teaching/
 ---
 
-<b>In Fall 2025, I served as the Instructor (Teaching Fellow) for Convex Optimization (E4650) at Columbia University</b>. Over the past few years I have also served as a head TA for:
-
-- Convex Optimization, Fall 2022 and 2023, Columbia University.
-- Modern Control Theory, Spring 2023, Columbia University.
-- Control Theory, Spring 2022, University of Campinas.
-- Circuit Analysis I, Fall 2018, University of Campinas.
-- Calculus I, Fall 2017, University of Campinas.
+- <b>Instructor (Teaching Fellow)</b>, Convex Optimization (E4650), Fall 2025, Columbia University.
+- Head TA, Convex Optimization, Fall 2022 and 2023, Columbia University.
+- Head TA, Modern Control Theory, Spring 2023, Columbia University.
+- Head TA, Control Theory, Spring 2022, University of Campinas.
+- Head TA, Circuit Analysis I, Fall 2018, University of Campinas.
+- Head TA, Calculus I, Fall 2017, University of Campinas.
 
 
 Mentoring

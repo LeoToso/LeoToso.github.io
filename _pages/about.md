@@ -12,6 +12,8 @@ I'm a Presidential and CAIRFI (Center for AI and Responsible Financial Innovatio
 
 I have received the Electrical Engineering <b>Distingueshed Teaching Award</b> from Columbia University for teaching Convex Optimization during Fall 2025.
 
+This fall, I'll be visiting Professor [Aaron Ames](https://www.bipedalrobotics.com) at Caltech.
+
 <!--split-->
 
 Research Interests

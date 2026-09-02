@@ -19,7 +19,7 @@ This Fall, I'll be visiting Professor [Aaron Ames](https://www.bipedalrobotics.c
 Research
 ------
 
-My research interests lie at the intersection of <b>control theory</b>, <b>learning theory</b>, and <b>optimization</b>. 
+My research lie at the intersection of <b>control theory</b>, <b>learning theory</b>, and <b>optimization</b>. 
 
 
 Collaborators

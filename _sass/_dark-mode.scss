@@ -4,8 +4,11 @@
 
 html[data-theme="dark"] {
   color-scheme: dark;
+  background-color: #14161a;
+  min-height: 100%;
 
   body {
+    min-height: 100vh;
     background-color: #14161a;
     color: #d8dade;
   }

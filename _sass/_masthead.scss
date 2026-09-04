@@ -14,8 +14,9 @@
   &__inner-wrap {
     @include container;
     @include clearfix;
+    position: relative;
     max-width: 900px;
-    padding: 1.5em 1em 1.5em;
+    padding: 1.5em 4.25em 1.5em 1em;
     font-family: $sans-serif;
 
     @include breakpoint($x-large) {
@@ -33,13 +34,53 @@
 }
 
 .masthead__menu {
-
   ul {
     margin: 0;
     padding: 0;
     clear: both;
     list-style-type: none;
     text-align: right;
+  }
+}
+
+.theme-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: 50%;
+  right: 0.5em;
+  transform: translateY(-50%);
+  padding: 0;
+  width: 1.75em;
+  height: 1.75em;
+  border: 0;
+  background: transparent;
+  color: $text-color;
+  font-size: $type-size-5;
+  cursor: pointer;
+  z-index: 15;
+
+  &:hover {
+    color: $accent-color;
+  }
+}
+
+.theme-toggle__icon {
+  display: block;
+
+  &--sun {
+    display: none;
+  }
+}
+
+html[data-theme="dark"] {
+  .theme-toggle__icon--moon {
+    display: none;
+  }
+
+  .theme-toggle__icon--sun {
+    display: block;
   }
 }
 

@@ -8,21 +8,7 @@
 }
 
 .person-hero {
-  display: flex;
-  flex-direction: column-reverse;
-  gap: 2em;
   margin-bottom: 1em;
-
-  @include breakpoint($medium) {
-    flex-direction: row;
-    align-items: flex-start;
-    gap: 3em;
-  }
-}
-
-.person-hero__text {
-  flex: 1 1 auto;
-  min-width: 0;
 }
 
 .person-hero__name {
@@ -67,6 +53,7 @@
 }
 
 .person-hero__links {
+  clear: both;
   display: flex;
   flex-wrap: wrap;
   gap: 0.5em 1.5em;
@@ -89,21 +76,21 @@
 }
 
 .person-hero__photo {
-  flex: 0 0 auto;
   width: 100%;
-  max-width: 260px;
-  margin: 0 auto;
+  max-width: 220px;
+  margin: 0 auto 1.5em;
 
   @include breakpoint($medium) {
-    width: 280px;
-    margin: 0;
+    float: right;
+    width: 200px;
+    margin: 0.25em 0 1em 2em;
   }
 
   img {
     display: block;
     width: 100%;
     height: auto;
-    aspect-ratio: 3 / 4;
+    aspect-ratio: 4 / 5;
     object-fit: cover;
     object-position: center 15%;
     border-radius: 14px;

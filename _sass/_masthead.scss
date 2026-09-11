@@ -68,20 +68,6 @@
 
 .theme-toggle__icon {
   display: block;
-
-  &--sun {
-    display: none;
-  }
-}
-
-html[data-theme="dark"] {
-  .theme-toggle__icon--moon {
-    display: none;
-  }
-
-  .theme-toggle__icon--sun {
-    display: block;
-  }
 }
 
 .masthead__menu-item {

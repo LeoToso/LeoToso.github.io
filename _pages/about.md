@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Presidential and CAIRFI (Center for AI and Responsible Financial Innovation) fellow in the Department of Electrical Engineering at Columbia University advised by Prof. [James Anderson](https://www.columbia.edu/~ja3451/). Before joining Columbia, I was a research assistant in the Department of Engineering Science at the University of Oxford. I was awarded the M.S. in Control, Signal, and Image Processing from the University of Paris-Saclay and the M.Eng. in Electrical Engineering from CentraleSupélec both in 2022. In addition, I received my B.Eng. in Electrical Engineering from the University of Campinas (Unicamp) also in 2022.
+I'm a Presidential and CAIRFI (Capital One) fellow in the EE Department at Columbia University working with Prof. [James Anderson](https://www.columbia.edu/~ja3451/). Before joining Columbia, I was a research assistant in the Department of Engineering Science at Oxford. I was awarded the M.S. in Control from the University of Paris-Saclay and the M.Eng. in EE from CentraleSupélec both in 2022. In addition, I received my B.Eng. in EE from the Unicamp in 2022.
 
-I have received the Electrical Engineering <b>Distingueshed Teaching Award</b> from Columbia University for teaching Convex Optimization during Fall 2025.
+I have received the Electrical Engineering <b>Distinguished Teaching Award</b> from Columbia University for teaching <b>E4650</b> Convex Optimization.
 
 This Fall, I'll be visiting Prof. [Aaron Ames](https://www.bipedalrobotics.com) at Caltech.
 

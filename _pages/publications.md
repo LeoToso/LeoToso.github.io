@@ -5,6 +5,8 @@ permalink: /publications/
 ---
 
 <ul>
+<li><b>LF. Toso</b>, J. Anderson, N. Gupta, R. Pinot, <a href="https://arxiv.org/abs/2609.25705">"On the Gradient Heterogeneity Dynamics of Adversarially Robust Federated Regression"</a>. Under review.</li>
+  
 <li><b>LF. Toso<sup>*</sup></b>, C. Stamouli<sup>*</sup>, K. Fallah<sup>*</sup>, G. Pappas, J. Anderson, <a href="https://arxiv.org/pdf/2604.16730">"Multitask LQG Control: Performance and Generalization Bounds"</a>. Accepted at the 65th Conference on Decision and Control (CDC).</li>
 
 <li><b>LF. Toso<sup>*</sup></b>, D. Shadunts<sup>*</sup>, Y. Lu<sup>*</sup>, Nihal Sharma, D. Zhan, NH. Nguyen, J. Anderson, <a href="https://arxiv.org/abs/2602.18639">"Learning Invariant Visual Representations for Planning with Joint-Embedding Predictive World Models"</a>. Presented at L4DC and WM@Booth, 2026.</li>
@@ -15,7 +17,7 @@ permalink: /publications/
 
 <li>C. Stamouli<sup>*</sup>, <b>LF. Toso<sup>*</sup></b>, A. Tsiamis, G. Pappas, J. Anderson, <a href="https://arxiv.org/abs/2509.19266">"Policy Gradient Bounds in Multitask LQR"</a>. IEEE L-CSS, 2025. ACC 2026.</li>
 
-<li>K. Fallah, <b>LF. Toso</b>, J. Anderson, <a href="https://arxiv.org/abs/2507.09026">"On the Gradient Domination of the LQG Problem"</a>. Under review, 2026.</li>
+<li>K. Fallah, <b>LF. Toso</b>, J. Anderson, <a href="https://arxiv.org/abs/2507.09026">"On the Gradient Domination of the LQG Problem"</a>. Under review.</li>
 
 <li><b>LF. Toso</b>, L. Ye, J. Anderson, <a href="https://arxiv.org/abs/2505.01348">"Learning Stabilizing Policies via an Unstable Subspace Representation"</a>. CDC 2025 (<a href="https://www.ee.columbia.edu/news/phd-student-leonardo-toso-receives-outstanding-paper-award-ieee-conference-decision-and"><b>Outstanding Paper Award</b></a>).</li>
 

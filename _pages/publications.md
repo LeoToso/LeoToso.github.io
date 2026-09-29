@@ -37,7 +37,7 @@ permalink: /publications/
 
 <li><b>LF. Toso</b>, H. Wang, J. Anderson, <a href="https://ieeexplore.ieee.org/document/10383950">"Learning Personalized Models with Clustered System Identification"</a>. CDC, 2023.</li>
 
-<li>H. Wang, <b>LF. Toso</b>, J. Anderson, <a href="https://proceedings.mlr.press/v211/wang23d.html">"Fedsysid: A federated approach to sample-efficient system identification"</a>. L4DC, 2023.</li>
+<li>H. Wang, <b>LF. Toso</b>, J. Anderson, <a href="https://arxiv.org/abs/2211.14393">"Fedsysid: A federated approach to sample-efficient system identification"</a>. L4DC, 2023.</li>
 
 <li><b>LF. Toso</b>, R. Drummond, S. Duncan, <a href="https://ieeexplore.ieee.org/abstract/document/9687846">"Regional stability analysis of transitional fluid flows"</a>. IEEE Control Systems Letters, 2022.</li>
 

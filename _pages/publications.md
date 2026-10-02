@@ -5,11 +5,13 @@ permalink: /publications/
 ---
 
 <ul>
+<li><b>LF. Toso</b>, J. Anderson, R. Pinot, N. Gupta <a href="https://arxiv.org/abs/2609.36660">"Byzantine-Robust Federated Representation Learning"</a>. Under review.</li>
+  
 <li><b>LF. Toso</b>, J. Anderson, N. Gupta, R. Pinot, <a href="https://arxiv.org/abs/2609.25705">"On the Gradient Heterogeneity Dynamics of Adversarially Robust Federated Regression"</a>. Under review.</li>
   
 <li><b>LF. Toso<sup>*</sup></b>, C. Stamouli<sup>*</sup>, K. Fallah<sup>*</sup>, G. Pappas, J. Anderson, <a href="https://arxiv.org/pdf/2604.16730">"Multitask LQG Control: Performance and Generalization Bounds"</a>. Accepted at the 65th Conference on Decision and Control (CDC).</li>
 
-<li><b>LF. Toso<sup>*</sup></b>, D. Shadunts<sup>*</sup>, Y. Lu<sup>*</sup>, Nihal Sharma, D. Zhan, NH. Nguyen, J. Anderson, <a href="https://arxiv.org/abs/2602.18639">"Learning Invariant Visual Representations for Planning with Joint-Embedding Predictive World Models"</a>. Presented at L4DC and WM@Booth, 2026.</li>
+<li><b>LF. Toso<sup>*</sup></b>, D. Shadunts<sup>*</sup>, Y. Lu<sup>*</sup>, G. Geng<sup>*</sup>, Nihal Sharma, D. Zhan, NH. Nguyen, J. Anderson, <a href="https://arxiv.org/abs/2602.18639">"JEPA-Bisim: Learning Robust Visual Representations for Planning with Joint-Embedding Predictive World Models"</a>. Presented at L4DC and WM@Booth, 2026.</li>
 
 <li>K. Fallah<sup>*</sup>, <b>LF. Toso<sup>*</sup></b>, J. Anderson, <a href="https://arxiv.org/pdf/2511.05444">"Adversarially Robust Multitask Adaptive Control"</a>. L4DC 2026.</li>
 

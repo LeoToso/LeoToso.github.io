@@ -5,6 +5,8 @@ permalink: /publications/
 ---
 
 <ul>
+<li><b>LF. Toso</b>, Y. LeCun, J. Anderson, O. Bounou <a href="https://arxiv.org/abs/2610.07540">"Preserving Unstable Modes Through Inverse Dynamics in JEPA World Models"</a>. Under review.</li>
+  
 <li><b>LF. Toso</b>, J. Anderson, R. Pinot, N. Gupta <a href="https://arxiv.org/abs/2609.36660">"Byzantine-Robust Federated Representation Learning"</a>. Under review.</li>
   
 <li><b>LF. Toso</b>, J. Anderson, N. Gupta, R. Pinot, <a href="https://arxiv.org/abs/2609.25705">"On the Gradient Heterogeneity Dynamics of Adversarially Robust Federated Regression"</a>. Under review.</li>
